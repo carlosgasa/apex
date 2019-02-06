@@ -1,87 +1,18 @@
 {
-"SMG":[
+"Shotguns":[
         {
-            "TITULO": "P90",
-            "IMG": "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/48394326_1399264036877138_8194369800550481920_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=f10cb9a6cdcacdf87987ccdfb9adfc5a&oe=5CB5FC20",
+            "TITULO": "Mozambique Shotgun",
+            "IMG": "https://progameguides.com/wp-content/uploads/2019/02/apex-legends-wingman.jpg",
             "SKIN":[
-              "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/48394326_1399264036877138_8194369800550481920_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=f10cb9a6cdcacdf87987ccdfb9adfc5a&oe=5CB5FC20"
+              "https://progameguides.com/wp-content/uploads/2019/02/apex-legends-wingman.jpg"
             ],
-            "DAMAGE":48,
-            "RANGO":27,
-            "VEL_DISPARO":75,
-            "VEL_CARGA":48,
-            "CARTUCHO":50,
-            "PUNTERIA":37,
+            "DAMAGE_BODY":48,
+            "DAMAGE_HEAD":27,
             "ACCESORIOS":[
                 "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50846369_557871148062007_283695281529159680_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=d23fea75248efe3fa2d9a53790ff2286&oe=5CC218C1",
                 "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40"
             ],
-            "BALA":"https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51368808_400930380676149_106757828823220224_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=90bc74f735827fe2a5ba9b3e37faa1dc&oe=5CB3FED7"
-        },
-        {
-            "TITULO":"MP5",
-            "IMG":"https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50592040_543353796168585_3696670586366328832_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=efa8b25a8cecbe2f7e65f03f68c361de&oe=5CF85A87",
-            "SKIN":[
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50592040_543353796168585_3696670586366328832_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=efa8b25a8cecbe2f7e65f03f68c361de&oe=5CF85A87"
-            ],
-            "DAMAGE":48,
-            "RANGO":27,
-            "VEL_DISPARO":69,
-            "VEL_CARGA":62,
-            "CARTUCHO":30,
-            "PUNTERIA":53,
-            "ACCESORIOS":[
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50966647_1095056337341230_7629037699353018368_n.png?_nc_cat=103&_nc_ht=scontent-dfw5-1.xx&oh=8cfab17a18b28a577d0a6bbc1b26c73e&oe=5CBC04D7",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51109539_603015463507017_3536882044720119808_n.png?_nc_cat=109&_nc_ht=scontent-dfw5-1.xx&oh=9c6e29259ef34bb21089b46b7836877b&oe=5CC43374",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51152733_296045927935312_427329914304200704_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a70cd5d46061bc0ef7afbf08f5f3658d&oe=5CF065FA",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51415008_286014392092734_2107914754252079104_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=a1736ea73fad489ca506ef0c50a557b4&oe=5CF49817"
-            ],
-            "BALA":"https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51368808_400930380676149_106757828823220224_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=90bc74f735827fe2a5ba9b3e37faa1dc&oe=5CB3FED7"
-        },
-        {
-            "TITULO":"MP40",
-            "IMG":"https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51109356_338038183465934_1996857796309549056_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=2d3203a1b5834aac0ead483bda533941&oe=5CF23EE2",
-            "SKIN":[
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51109356_338038183465934_1996857796309549056_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=2d3203a1b5834aac0ead483bda533941&oe=5CF23EE2"
-            ],
-            "DAMAGE":48,
-            "RANGO":22,
-            "VEL_DISPARO":83,
-            "VEL_CARGA":48,
-            "CARTUCHO":20,
-            "PUNTERIA":17,
-            "ACCESORIOS":[
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50966647_1095056337341230_7629037699353018368_n.png?_nc_cat=103&_nc_ht=scontent-dfw5-1.xx&oh=8cfab17a18b28a577d0a6bbc1b26c73e&oe=5CBC04D7",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51109539_603015463507017_3536882044720119808_n.png?_nc_cat=109&_nc_ht=scontent-dfw5-1.xx&oh=9c6e29259ef34bb21089b46b7836877b&oe=5CC43374",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50846369_557871148062007_283695281529159680_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=d23fea75248efe3fa2d9a53790ff2286&oe=5CC218C1",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500"
-            ],
-            "BALA":"https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51368808_400930380676149_106757828823220224_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=90bc74f735827fe2a5ba9b3e37faa1dc&oe=5CB3FED7"
-        },
-        {
-            "TITULO":"UMP",
-            "IMG":"https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50754091_2076193736005369_2423844306503598080_n.png?_nc_cat=106&_nc_ht=scontent-dfw5-1.xx&oh=17bf044a44cd916cfcd8433fb37d0c66&oe=5CB32FD6",
-            "SKIN":[
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50754091_2076193736005369_2423844306503598080_n.png?_nc_cat=106&_nc_ht=scontent-dfw5-1.xx&oh=17bf044a44cd916cfcd8433fb37d0c66&oe=5CB32FD6"
-            ],
-            "DAMAGE":48,
-            "RANGO":31,
-            "VEL_DISPARO":75,
-            "VEL_CARGA":62,
-            "CARTUCHO":30,
-            "PUNTERIA":24,
-            "ACCESORIOS":[
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50966647_1095056337341230_7629037699353018368_n.png?_nc_cat=103&_nc_ht=scontent-dfw5-1.xx&oh=8cfab17a18b28a577d0a6bbc1b26c73e&oe=5CBC04D7",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51109539_603015463507017_3536882044720119808_n.png?_nc_cat=109&_nc_ht=scontent-dfw5-1.xx&oh=9c6e29259ef34bb21089b46b7836877b&oe=5CC43374",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51152733_296045927935312_427329914304200704_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a70cd5d46061bc0ef7afbf08f5f3658d&oe=5CF065FA",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40",
-                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51415008_286014392092734_2107914754252079104_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=a1736ea73fad489ca506ef0c50a557b4&oe=5CF49817"
-            ],
-            "BALA":"https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51368808_400930380676149_106757828823220224_n.png?_nc_cat=111&_nc_ht=scontent-dfw5-1.xx&oh=90bc74f735827fe2a5ba9b3e37faa1dc&oe=5CB3FED7"
+            "BALA":""
         }
     ]
 }

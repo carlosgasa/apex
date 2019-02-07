@@ -111,6 +111,61 @@
             "ThHABILIDAD_TITULO_2":"ติดตาม",
             "ThHABILIDAD_TITULO_3":"การล่าสัตว์"
       
+    },
+    {
+      "NOMBRE":"BLOODHOUND",
+      "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-caustic.png.adapt.crop16x9.png",
+      "IMG_GRANDE":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-caustic.png.adapt.crop16x9.png",
+      "EDAD":48,
+      "IMG_HABILIDAD_1":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-tactical-caustic.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_2":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-passive-caustic.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_3":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-caustic.png.adapt.crop16x9.652w.png",
+      "NOMBRE_REAL":"Alexander Nox",
+
+      "EsDESCRIPCION":"Trampero tóxico",
+      "EsINFO":"Antes de la aparición de Caustic, había un científico llamado Alexander Nox que trabajaba en Humbert Labs, el principal fabricante de gases pesticidas de La Frontera. Con la necesidad de grandes cantidades de estos productos para proteger los cada vez más extensos cultivos de los colonos de La Frontera, en Humbert Labs se investigaba constantemente en busca de fórmulas mejores y más potentes. Nox era uno de sus científicos más brillantes, y trabajaba día y noche en el desarrollo de nuevos gases. Pero para asegurarse de que funcionaban, necesitaba probarlos en algo más que en simple tejido inerte. Necesitaba algo vivo. Mientras trabajaba incansablemente en secreto, Nox empezó a ver belleza en sus creaciones y en su capacidad de destruir todo lo que tocaban. Pero el director de Humbert Labs pronto descubrió sus horripilantes experimentos, y el consecuente enfrentamiento terminó con el laboratorio en llamas y con su jefe cadáver. Hoy, Nox está desaparecido, supuestamente muerto. Caustic, mientras tanto, ha encontrado nuevos sujetos de prueba en los Apex Games, donde experimenta con sus creaciones gaseosas y observa sus efectos con gran interés.",
+      "EsHABILIDAD_INFO_1":"Deja caer recipientes que liberan gas letal Nox cuando se les dispara o los activa un enemigo.",
+      "EsHABILIDAD_INFO_2":"Permite ver enemigos a través de tu gas.",
+      "EsHABILIDAD_INFO_3":"Cubre una zona extensa con gas Nox.",
+      "EsHABILIDAD_TITULO_1":"Trampa de gas Nox",
+      "EsHABILIDAD_TITULO_2":"Visión Nox",
+      "EsHABILIDAD_TITULO_3":"Granada de gas Nox",
+
+      "EnDESCRIPCION":"Toxic Trapper",
+      "EnINFO":"Before there was Caustic, a scientist named Alexander Nox worked at Humbert Labs, the Frontier’s leading manufacturer of pesticide gases. With a glut of pesticides needed to protect the growing Frontier colonies’ crops, Humbert Labs was constantly on the hunt for better and stronger formulas. Nox was one of their brightest scientists and worked day and night developing new gases. But to make sure they worked, he needed to test them on more than just inert tissue: he needed something living. As he toiled in secret, Nox began to see the beauty in his creations and their ability to destroy anything they touched. But the head of Humbert Labs soon discovered his gruesome experiments, and their confrontation ended with the lab in flames and its chief dead. Today, Nox is missing and presumed deceased. Caustic, meanwhile, now finds new test subjects in the Apex Games, where he puts his gaseous creations to work and observes their effects with great interest.",
+      "EnHABILIDAD_INFO_1":"Drop canisters that release deadly Nox gas when shot or triggered by enemies.",
+      "EnHABILIDAD_INFO_2":"Allows you to see enemies through your gas.",
+      "EnHABILIDAD_INFO_3":"Blankets a large area in Nox gas.",
+      "EnHABILIDAD_TITULO_1":"Nox Gas Trap",
+      "EnHABILIDAD_TITULO_2":"Nox Vision",
+      "EnHABILIDAD_TITULO_3":"Nox Gas Grenade",
+
+      "PoDESCRIPCION":"Caçador Tóxico",
+      "PoINFO":"Antes de Caustic existir, um cientista chamado Alexander Nox trabalhava em Humbert Labs, o principal fabricante de gases pesticidas da Fronteira. Com uma grande demanda de pesticidas para proteger as plantações crescentes das colônias da Fronteira, Humbert Labs buscava constantemente fórmulas melhores e mais fortes. Nox era um dos cientistas mais brilhantes e trabalhava dia e noite para desenvolver novos gases. Mas, para garantir a eficiência, não podia testá-los apenas em tecido inerte; ele precisava de algo vivo. Enquanto trabalhava em segredo, Nox começou a enxergar a beleza de suas criações e a habilidade delas de destruir tudo que tocavam. Porém, logo o chefe do Humbert Labs descobriu os terríveis experimentos dele, e o confronto entre os dois acabou com o laboratório em chamas e a morte do chefe. Hoje, Nox está desaparecido e acredita-se que tenha morrido. Enquanto isso, Caustic encontra novas cobaias nos Jogos Apex, onde ele testa as criações gasosas e observa os efeitos com grande interesse.",
+      "PoHABILIDAD_INFO_1":"Utiliza cilindros que lançam o gás mortal Nox quando são alvejados ou ativados pelos inimigos.",
+      "PoHABILIDAD_INFO_2":"Permite que enxergue os inimigos através do seu gás.",
+      "PoHABILIDAD_INFO_3":"Cobre uma grande área com o gás Nox.",
+      "PoHABILIDAD_TITULO_1":"Armadilha de Gás Nox",
+      "PoHABILIDAD_TITULO_2":"Visão Nox",
+      "PoHABILIDAD_TITULO_3":"Granada de Gás Nox",
+
+      "InDESCRIPCION":"Hunter Beracun",
+      "InINFO":"Sebelum Caustic ada, seorang ilmuwan bernama Alexander Nox bekerja di Humbert Labs, produsen gas pestisida terkemuka di Perbatasan. Dengan permintaan besar akan pestisida untuk melindungi perkebunan koloni Kolonial yang terus tumbuh, Humbert Labs terus mencari formula yang lebih baik dan lebih kuat. Nox adalah salah satu ilmuwan paling cerdas dan bekerja siang dan malam untuk mengembangkan gas baru. Tetapi untuk memastikan efisiensi, ia tidak bisa mengujinya hanya pada kain lembam; dia membutuhkan sesuatu yang hidup. Saat bekerja diam-diam, Nox mulai melihat keindahan ciptaannya dan kemampuan mereka untuk menghancurkan semua yang mereka sentuh. Namun segera kepala Humbert Labs menemukan eksperimennya yang mengerikan, dan konfrontasi antara keduanya berakhir dengan laboratorium yang terbakar dan kematian bos. Nox hilang hari ini dan diyakini telah meninggal. Sementara itu, Caustic menemukan marmut baru di Apex Games, di mana ia menguji kreasi gas dan menyaksikan efeknya dengan penuh minat.",
+      "InHABILIDAD_INFO_1":"Menggunakan silinder yang meluncurkan gas Nox yang mematikan saat ditargetkan atau diaktifkan oleh musuh.",
+      "InHABILIDAD_INFO_2":"Memungkinkan Anda melihat musuh melalui gas Anda.",
+      "InHABILIDAD_INFO_3":"Meliputi area yang luas dengan gas Nox.",
+      "InHABILIDAD_TITULO_1":"Perangkap Gas Nox",
+      "InHABILIDAD_TITULO_2":"Visi Nox",
+      "InHABILIDAD_TITULO_3":"Granat Gas Nox",
+
+      "ThDESCRIPCION":"นักล่าพิษ",
+      "ThINFO":"ก่อนที่จะมีการกัดกร่อนนักวิทยาศาสตร์ชื่ออเล็กซานเดอร์น็อกซ์ทำงานที่ Humbert Labs ผู้ผลิตชั้นนำของก๊าซกำจัดศัตรูพืชในชายแดน ด้วยความต้องการอย่างมากสำหรับสารกำจัดศัตรูพืชเพื่อปกป้องสวนที่กำลังเติบโตของอาณานิคมโคโลเนียลฮัมเบิร์ตแล็บจึงหาสูตรที่ดีและแข็งแรงกว่าอยู่ตลอดเวลา Nox เป็นหนึ่งในนักวิทยาศาสตร์ที่ฉลาดที่สุดและทำงานทั้งกลางวันและกลางคืนเพื่อพัฒนาก๊าซใหม่ แต่เพื่อให้มั่นใจในประสิทธิภาพเขาไม่สามารถทดสอบพวกเขาได้เฉพาะบนผ้าเฉื่อย เขาต้องการสิ่งที่มีชีวิตอยู่ ในขณะที่ทำงานอย่างลับๆ Nox เริ่มเห็นความงามของผลงานของเขาและความสามารถในการทำลายทุกสิ่งที่พวกเขาสัมผัส แต่ในไม่ช้าหัวหน้าของฮัมเบิร์ตแล็บก็ได้ค้นพบการทดลองที่น่ากลัวของเขาและการเผชิญหน้าระหว่างทั้งสองก็จบลงด้วยการทดลองในห้องเพลิงและการตายของหัวหน้า วันนี้ Nox หายไปและเชื่อว่าตายแล้ว ในขณะเดียวกัน Caustic ค้นพบหนูตะเภาตัวใหม่ที่ Apex Games ซึ่งเขาทดสอบการสร้างก๊าซและดูเอฟเฟกต์ด้วยความสนใจอย่างมาก",
+      "ThHABILIDAD_INFO_1":"ใช้กระบอกสูบที่ปล่อยแก๊สพิษถึงตายเมื่อถูกโจมตีหรือโจมตีโดยเป้าหมาย",
+      "ThHABILIDAD_INFO_2":"ช่วยให้คุณเห็นศัตรูผ่านแก๊สของคุณ",
+      "ThHABILIDAD_INFO_3":"ครอบคลุมพื้นที่ขนาดใหญ่ด้วยก๊าซ Nox",
+      "ThHABILIDAD_TITULO_1":"กับดักแก๊ส Nox",
+      "ThHABILIDAD_TITULO_2":"Nox Vision",
+      "ThHABILIDAD_TITULO_3":"ระเบิดก๊าซ Nox"
     }
   ]
 }

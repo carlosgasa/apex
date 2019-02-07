@@ -168,10 +168,10 @@
       "ThHABILIDAD_TITULO_3":"ระเบิดก๊าซ Nox"
     },
     {
-      "NOMBRE":"CAUSTIC",
+      "NOMBRE":"GIBRALTAR",
       "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-gibraltar.png.adapt.crop16x9.png",
       "IMG_GRANDE":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-gibraltar.png.adapt.crop16x9.png",
-      "EDAD":48,
+      "EDAD":30,
       "IMG_HABILIDAD_1":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-tactical-gibraltar.png.adapt.crop16x9.652w.png",
       "IMG_HABILIDAD_2":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-passive-gibraltar.png.adapt.crop16x9.652w.png",
       "IMG_HABILIDAD_3":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-gibraltar.png.adapt.crop16x9.652w.png",
@@ -221,6 +221,61 @@
       "ThHABILIDAD_TITULO_1":"โดมแห่งการป้องกัน",
       "ThHABILIDAD_TITULO_2":"เสื้อคลุมแขน",
       "ThHABILIDAD_TITULO_3":"การป้องกันการระเบิด"
+    },
+    {
+      "NOMBRE":"LIFELINE",
+      "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-lifeline.png.adapt.crop16x9.png",
+      "IMG_GRANDE":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-lifeline.png.adapt.crop16x9.png",
+      "EDAD":24,
+      "IMG_HABILIDAD_1":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-tactical-lifeline.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_2":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-passive-lifeline.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_3":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-lifeline.png.adapt.crop16x9.652w.png",
+      "NOMBRE_REAL":"Ajay Che",
+
+      "EsDESCRIPCION":"Médica de combate",
+      "EsINFO":"Ajay Che, apodada Lifeline, no es la típica persona que esperarías encontrar en los Apex Games. Hija de unos ricos mercaderes de la guerra, huyó de casa cuando supo el daño que había provocado su familia y se alistó en el Cuerpo de Paz Fronterizo, una organización humanitaria que ayuda a las comunidades necesitadas de la Frontera. Desde entonces ha dedicado su vida a ayudar a los demás y se ha unido a los Apex Games para financiar el Cuerpo de Paz Fronterizo con sus ganancias. Dado que en los juegos nadie es inocente (todos saben qué hacen allí) y que cada una de sus victorias se traduce en ayuda para los necesitados, Lifeline no tiene problemas de conciencia por participar en este popular y cruento deporte. O, al menos, eso es lo que se dice a sí misma. Aunque parezca sarcástica y dura, en el fondo desea ayudar a la gente y hacer de este un mundo mejor. Y si eso significa tener que sacrificar a algunas personas, que así sea.",
+      "EsHABILIDAD_INFO_1":"Llama a tu Dron Operario de Curación para que cure automáticamente a tus compañeros cercanos con el tiempo.",
+      "EsHABILIDAD_INFO_2":"Recupera a compañeros de equipo abatidos más rápidamente mientras te protege un muro de escudo. Las curaciones actúan un 25 % más rápido.",
+      "EsHABILIDAD_INFO_3":"Solicita el envío de una cápsula llena de equipo defensivo de alta calidad.",
+      "EsHABILIDAD_TITULO_1":"Dron médico DOC",
+      "EsHABILIDAD_TITULO_2":"Médica de combate",
+      "EsHABILIDAD_TITULO_3":"Pack de supervivencia",
+
+      "EnDESCRIPCION":"Combat Medic",
+      "EnINFO":"Ajay Che, aka Lifeline, isn’t someone you would expect to find in the Apex Games. Once the child of wealthy war profiteers, she left home when she learned of the damage her family had caused and enlisted in the Frontier Corps, a humanitarian organization that aids Frontier communities in need. She’s since devoted her life to helping others and joined the Apex Games to fund the Frontier Corps with her winnings. Since no one in the Games is innocent — they all know what they signed up for — and every one of her victories means help for those in need, Lifeline has no problem engaging in the popular bloodsport. Or so she tells herself. She may seem sarcastic and callous, but deep down she wants to help people and make the world a better place. If that means taking a few people down in the process, so be it.",
+      "EnHABILIDAD_INFO_1":"Call your Drone of Compassion to automatically heal nearby teammates over time.",
+      "EnHABILIDAD_INFO_2":"Revive knocked down teammates faster while protected by a shield wall. Healing items are used 25% faster.",
+      "EnHABILIDAD_INFO_3":"Call in a drop pod full of high-quality defensive gear.",
+      "EnHABILIDAD_TITULO_1":"D.O.C. Heal Drone",
+      "EnHABILIDAD_TITULO_2":"Combat Medic",
+      "EnHABILIDAD_TITULO_3":"Care Package",
+
+      "PoDESCRIPCION":"Médica de Combate",
+      "PoINFO":"Ajay Che, conhecida como Lifeline, não é alguém que você esperaria encontrar nos Jogos Apex. Filha de ricos mercadores de armas, ela fugiu de casa quando descobriu os estragos que a família tinha causado e se alistou no Corpo Militar da Fronteira, uma organização humanitária que ajuda as comunidades necessitadas da Fronteira. Desde então, ela dedicou a vida a ajudar os outros e entrou para os Jogos Apex a fim de financiar o Corpo Militar da Fronteira com o dinheiro da premiação. Como ninguém que participa dos Jogos é inocente (todos sabem no que se meteram) e toda vitória significa mais ajuda para os necessitados, Lifeline não tem problema algum em participar do popular esporte sangrento. Ou pelo menos é o que diz para si mesma. Ela pode parecer sarcástica e insensível, mas, no fundo, tudo que deseja é ajudar as pessoas e tornar o mundo um lugar melhor. Se isso significa derrubar algumas pessoas ao longo do caminho, que seja.",
+      "PoHABILIDAD_INFO_1":"Chame seu drone para curar automaticamente os aliados próximos ao longo do tempo.",
+      "PoHABILIDAD_INFO_2":"Reanima aliados derrubados mais rapidamente enquanto um escudo os protege. Use itens de cura 25% mais rápido.",
+      "PoHABILIDAD_INFO_3":"Solicita uma cápsula cheia de equipamento de defesa de alta qualidade.",
+      "PoHABILIDAD_TITULO_1":"Drone Dr. Cura",
+      "PoHABILIDAD_TITULO_2":"Médica de Combate",
+      "PoHABILIDAD_TITULO_3":"Cápsula de Suprimentos",
+
+      "InDESCRIPCION":"Petugas Medis",
+      "InINFO":"Ajay Che, yang dikenal sebagai Lifeline, bukanlah seseorang yang Anda harapkan untuk bertemu di Apex Games. Anak perempuan dari pedagang senjata yang kaya, dia melarikan diri dari rumah ketika dia menemukan kerusakan yang keluarga telah lakukan dan mendaftar di Korps Militer Perbatasan, sebuah organisasi kemanusiaan yang membantu masyarakat yang membutuhkan Perbatasan. Sejak itu, dia mendedikasikan hidupnya untuk membantu orang lain dan bergabung dengan Apex Games untuk mendanai Korps Perbatasan Militer dengan uang hadiah. Karena siapa pun yang berpartisipasi dalam Pertandingan tidak bersalah (semua orang tahu apa yang mereka hadapi) dan setiap kemenangan berarti lebih banyak bantuan bagi yang membutuhkan, Lifeline tidak memiliki masalah untuk berpartisipasi dalam olahraga berdarah populer ini. Atau setidaknya itulah yang dia katakan pada dirinya sendiri. Dia mungkin terdengar sarkastik dan tidak peka, tetapi jauh di lubuk hatinya, yang dia inginkan hanyalah membantu orang dan membuat dunia menjadi tempat yang lebih baik. Jika itu berarti merobohkan beberapa orang di sepanjang jalan, terserahlah.",
+      "InHABILIDAD_INFO_1":"Panggil drone Anda untuk secara otomatis menyembuhkan sekutu terdekat dari waktu ke waktu.",
+      "InHABILIDAD_INFO_2":"Kembalikan sekutu yang terjatuh lebih cepat sementara perisai melindungi mereka. Gunakan item penyembuhan 25% lebih cepat.",
+      "InHABILIDAD_INFO_3":"Minta kapsul yang diisi dengan peralatan pertahanan berkualitas tinggi.",
+      "InHABILIDAD_TITULO_1":"Drone Dr. Cura",
+      "InHABILIDAD_TITULO_2":"Petugas Medis",
+      "InHABILIDAD_TITULO_3":"Menyediakan Kapsul",
+
+      "ThDESCRIPCION":"เจ้าหน้าที่การแพทย์",
+      "ThINFO":"Ajay Che หรือที่รู้จักกันในชื่อ Lifeline ไม่ใช่คนที่คุณคาดหวังว่าจะได้พบที่ Apex Games ลูกสาวของพ่อค้าอาวุธที่ร่ำรวยเธอหนีออกจากบ้านเมื่อเธอค้นพบความเสียหายที่ครอบครัวทำและเกณฑ์ในหน่วยทหารชายแดนซึ่งเป็นองค์กรด้านมนุษยธรรมที่ช่วยเหลือชุมชนที่ต้องการชายแดน ตั้งแต่นั้นมาเธอทุ่มเทชีวิตของเธอเพื่อช่วยเหลือผู้อื่นและเข้าร่วม Apex Games เพื่อระดมทุนให้กับกองทหารชายแดนด้วยเงินรางวัล ในขณะที่ทุกคนที่เข้าร่วมในเกมนั้นไร้เดียงสา (ทุกคนรู้ว่าพวกเขามีอะไร) และชัยชนะทุกครั้งช่วยให้คนขัดสนได้รับความช่วยเหลือมากขึ้น Lifeline จึงไม่มีปัญหาในการเข้าร่วมกีฬานองเลือดที่เป็นที่นิยม หรืออย่างน้อยนั่นคือสิ่งที่เธอพูดกับตัวเอง เธออาจฟังดูเหน็บแนมและไม่รู้สึกตัว แต่ลึกลงไปทั้งหมดที่เธอต้องการคือการช่วยเหลือผู้คนและทำให้โลกน่าอยู่ขึ้น ถ้ามันหมายถึงการล้มคนบางคนไปพร้อมกันไม่ว่าอะไรก็ตาม",
+      "ThHABILIDAD_INFO_1":"โทรหาโดรนของคุณเพื่อรักษาพันธมิตรที่อยู่ใกล้เคียงโดยอัตโนมัติเป็นครั้งคราว",
+      "ThHABILIDAD_INFO_2":"ฟื้นฟูพันธมิตรที่ล้มลงเร็วขึ้นในขณะที่เกราะป้องกัน ใช้ไอเท็มรักษาเร็วขึ้น 25%",
+      "ThHABILIDAD_INFO_3":"ขอแคปซูลที่เต็มไปด้วยอุปกรณ์ป้องกันคุณภาพสูง",
+      "ThHABILIDAD_TITULO_1":"Drone Dr. Cura",
+      "ThHABILIDAD_TITULO_2":"เจ้าหน้าที่การแพทย์",
+      "ThHABILIDAD_TITULO_3":"แคปซูลซัพพลาย"
     }
   ]
 }

@@ -55,6 +55,62 @@
             "ThHABILIDAD_TITULO_2":"ทหารรักษาพระองค์",
             "ThHABILIDAD_TITULO_3":"Thunder Crash"
       
+    },
+    {
+            "NOMBRE":"BLOODHOUND",
+            "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-bloodhound.png.adapt.crop16x9.png",
+            "IMG_GRANDE":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-bloodhound.png.adapt.crop16x9.png.png",
+            "EDAD":0,
+            "IMG_HABILIDAD_1":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-tactical-bloodhound.png.adapt.crop16x9.652w.png",
+            "IMG_HABILIDAD_2":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-passive-bloodhound.png.adapt.crop16x9.652w.png",
+            "IMG_HABILIDAD_3":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-bloodhound.png.adapt.crop16x9.652w.png",
+            "NOMBRE_REAL":"Desconocido",
+      
+            "EsDESCRIPCION":"Rastreadora tecnológica",
+            "EsINFO":"Bloodhound es conocida en las Tierras Salvajes por ser una de las mejores cazadoras de La Frontera... y básicamente eso es todo lo que se sabe de ella. Su identidad es un misterio rodeado de rumores: que si es increíblemente rica, una asesina implacable, que si susurra a los titanes Goliat, que si es una antigua esclava, medio murciélago y muchas cosas más, dependiendo de a quién se pregunte. Lo único que se sabe es que es una rival temible en los Apex Games. Sus habilidades incomparables como rastreadora son una auténtica bendición para su equipo, y le permiten revelar contrincantes ocultos y seguir los movimientos del enemigo. Bloodhound invoca a los antiguos dioses vikingos de la Tierra, y cree que el destino es un camino ya marcado que conduce a todos a su muerte. Pero de saber esto ella saca su fuerza, porque hasta que llegue ese día, Bloodhound sabe que nada podrá detenerla.",
+            "EsHABILIDAD_INFO_1":"Revela brevemente enemigos, trampas y pistas ocultas a través de todas las estructuras frente a ti.",
+            "EsHABILIDAD_INFO_2":"Verás los rastros dejados por tus enemigos.",
+            "EsHABILIDAD_INFO_3":"Agudiza tus sentidos, lo que te permite moverte más rápidamente y resaltar a tu presa.",
+            "EsHABILIDAD_TITULO_1":"Ojo omnisciente",
+            "EsHABILIDAD_TITULO_2":"Rastreadora",
+            "EsHABILIDAD_TITULO_3":"Bestia cazadora",
+      
+            "EnDESCRIPCION":"Technological Tracker",
+            "EnINFO":"Bloodhound is known across the Outlands as one of the greatest game hunters the Frontier has ever seen – and that’s about all anyone knows. Their identity is a mystery wrapped in layers of rumors: they are fabulously wealthy, a bloodthirsty murderer, a Goliath whisperer, a former slave, half bat, and a dozen other things depending on who’s doing the whispering. All anyone truly knows is that Bloodhound is a force to be reckoned with in the Apex Games. Bloodhound’s unparalleled tracking skills are a boon to any team they join, helping them root out hidden opponents and tracking the enemy’s movements. Calling on Earth’s Old Norse Gods to guide them, Bloodhound believes that destiny is a path that has already been laid out, eventually carrying all to their death. But with that knowledge comes strength, because until that day comes, Bloodhound knows they can’t be stopped.",
+            "EnHABILIDAD_INFO_1":"Briefly reveal hidden enemies, traps, and clues throughout structures in front of you.",
+            "EnHABILIDAD_INFO_2":"See tracks left behind by your foes.",
+            "EnHABILIDAD_INFO_3":"Enhances your senses, allowing you move faster and highlighting your prey.",
+            "EnHABILIDAD_TITULO_1":"Eye of the Allfather",
+            "EnHABILIDAD_TITULO_2":"Tracker",
+            "EnHABILIDAD_TITULO_3":"Beast of the Hunt",
+      
+            "PoDESCRIPCION":"Combatente Profissional",
+            "PoINFO":"Bangalore, os pais e os quatro irmãos mais velhos serviram nas forças armadas da IMC, e ela já era um soldado excepcional desde muito jovem. Era a melhor da turma na academia militar da IMC e a única cadete capaz de desmontar uma Peacekeeper, equipá-la com um funil de precisão e remontá-la em menos de 20 segundos... tudo isso vendada. Há três anos, Anita e o irmão, Jackson, receberam ordens para resgatar uma frota mercenárias das Terras Ermas e ajudar a IMC a lutar contra a Milícia. Porém, a unidade deles perdeu contato com o QG da IMC e foi emboscada ao chegar no local. O esquadrão se espalhou, porém Jackson ficou para trás para que a irmã pudesse fugir. Sozinha e sem ter como voltar para casa, Anita colocou o treinamento, amplo conhecimento sobre armas e espírito competitivo para trabalhar entrando nos Jogos Apex. Agora ela luta por dinheiro para conseguir passagem de volta para a base da IMC, onde ela espera reencontrar o que resta da família dela.",
+            "PoHABILIDAD_INFO_1":"Revela brevemente inimigos escondidos, armadilhas e dicas em todas as estruturas à sua frente.",
+            "PoHABILIDAD_INFO_2":"Enxerga rastros deixados para trás pelos inimigos.",
+            "PoHABILIDAD_INFO_3":"Reforça seus sentidos, permitindo que se mova mais depressa e marque as presas.",
+            "PoHABILIDAD_TITULO_1":"Olho do Pai-de-todos",
+            "PoHABILIDAD_TITULO_2":"Rastreador",
+            "PoHABILIDAD_TITULO_3":"Fera da Caça",
+      
+            "InDESCRIPCION":"Pejuang Profesional",
+            "InINFO":"Bloodhound é uma das maiores caçadoras que a Fronteira já viu, mas sua identidade é um mistério. Cercada de mistérios e muitos rumores, acreditam que seja uma pessoa incrivelmente rica, uma assassina sanguinária, uma controladora de Golias, ex-escrava, meia morcega e muitas outras coisas, dependendo de quem estiver falando. Tudo que se sabe é que Bloodhound é uma força a ser respeitada dentro dos Jogos Apex. As habilidades de rastreamento de Bloodhound é uma vantagem para qualquer equipe, ajudando-a a encontrar oponentes escondidos e rastrear os movimentos inimigos. Pedindo a ajuda dos antigos deuses nórdicos, Bloodhound acredita que o destino é um caminho definido, que, no fim, leva todos para a morte. Porém conhecimento traz força, porque até esse dia chegar, Bloodhound sabe que ninguém pode impedi-la.",
+            "InHABILIDAD_INFO_1":"Secara singkat mengungkapkan musuh tersembunyi, jebakan, dan petunjuk pada semua struktur di depan Anda.",
+            "InHABILIDAD_INFO_2":"Lihat jejak yang ditinggalkan musuh.",
+            "InHABILIDAD_INFO_3":"Reforça seus sentidos, permitindo que se mova mais depressa e marque as presas.",
+            "InHABILIDAD_TITULO_1":"Eye of the Allfather",
+            "InHABILIDAD_TITULO_2":"Pelacak",
+            "InHABILIDAD_TITULO_3":"Hunting Fair",
+      
+            "ThDESCRIPCION":"นักรบมืออาชีพ",
+            "ThINFO":"บังกาลอร์พ่อแม่ของเธอและพี่น้องที่อายุมากกว่าสี่คนรับใช้ในกองทัพ IMC และเธอเป็นทหารที่ยอดเยี่ยมตั้งแต่เธอยังเด็กมาก เธอเป็นคนที่ดีที่สุดของสถาบันการศึกษาทางทหารของ IMC และเป็นนักเรียนนายร้อยคนเดียวที่สามารถถอด Peacekeeper ได้เตรียมเธอด้วยช่องทางที่แม่นยำ สามปีที่แล้วแอนนิต้าและแจ็คสันพี่ชายของเธอได้รับคำสั่งให้ช่วยเหลือกองทหารรับจ้างจาก Ermas Lands และช่วย IMC ต่อสู้กับกองทหารรักษาการณ์ อย่างไรก็ตามหน่วยของพวกเขาสูญเสียการติดต่อกับกองบัญชาการของ IMC และถูกซุ่มโจมตีเมื่อมาถึงที่เกิดเหตุ ฝูงบินกระจายออกไป แต่แจ็คสันอยู่ข้างหลังเพื่อที่น้องสาวของเขาจะได้หลบหนี เพียงอย่างเดียวและโดยไม่ต้องกลับบ้านแอนนิต้าได้ฝึกฝนให้มีความรู้กว้างขวางเกี่ยวกับอาวุธและจิตวิญญาณในการแข่งขันเพื่อเข้าสู่เกม Apex ตอนนี้เธอต้องดิ้นรนเพื่อหาทางกลับไปที่ฐานของ IMC ซึ่งเธอหวังที่จะค้นพบสิ่งที่เหลืออยู่ในครอบครัวของเธอ",
+            "ThHABILIDAD_INFO_1":"เปิดเผยศัตรูที่ซ่อนอยู่กับดักและคำแนะนำในสิ่งปลูกสร้างทั้งหมดต่อหน้าคุณ",
+            "ThHABILIDAD_INFO_2":"ดูเส้นทางที่ถูกทิ้งไว้ข้างหลังโดยศัตรู",
+            "ThHABILIDAD_INFO_3":"คลิกที่นี่เพื่อดูใบอนุญาตของคุณที่จะลดลงเป็นยี่ห้อ",
+            "ThHABILIDAD_TITULO_1":"Eye of the Allfather",
+            "ThHABILIDAD_TITULO_2":"ติดตาม",
+            "ThHABILIDAD_TITULO_3":"การล่าสัตว์"
+      
     }
   ]
 }

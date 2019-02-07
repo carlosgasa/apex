@@ -1,60 +1,107 @@
 {
-"Shotguns":[
+    "Shotguns": [
         {
             "TITULO": "Mozambique Shotgun",
             "IMG": "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-shotgun/Mozambique.jpg",
-            "SKIN":[
-              "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-shotgun/Mozambique.jpg"
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-shotgun/Mozambique.jpg"
             ],
-            "DAMAGE_BODY":15.00,
-            "DAMAGE_HEAD":22.00,
-            "ACCESORIOS":[
+            "DAMAGE_BODY": 15.00,
+            "DAMAGE_HEAD": 22.00,
+            "ACCESORIOS": [
                 "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
                 "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40"
             ],
-            "BALA":""
+            "BALA": ""
         },
         {
             "TITULO": "Peacekeeper",
             "IMG": "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Peacekeeper.jpg",
-            "SKIN":[
-              "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Peacekeeper.jpg"
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Peacekeeper.jpg"
             ],
-            "DAMAGE_BODY":36.66,
-            "DAMAGE_HEAD":55.00,
-            "ACCESORIOS":[
+            "DAMAGE_BODY": 36.66,
+            "DAMAGE_HEAD": 55.00,
+            "ACCESORIOS": [
                 "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
                 "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40",
                 "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51152733_296045927935312_427329914304200704_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a70cd5d46061bc0ef7afbf08f5f3658d&oe=5CF065FA"
             ],
-            "BALA":""
+            "BALA": ""
         },
         {
             "TITULO": "EVA-8 Auto",
             "IMG": "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/EVA-8%20Auto.jpg",
-            "SKIN":[
-              "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/EVA-8%20Auto.jpg"
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/EVA-8%20Auto.jpg"
             ],
-            "DAMAGE_BODY":21.00,
-            "DAMAGE_HEAD":30.00,
-            "ACCESORIOS":[
+            "DAMAGE_BODY": 21.00,
+            "DAMAGE_HEAD": 30.00,
+            "ACCESORIOS": [
                 "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
                 "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40"
             ],
-            "BALA":""
+            "BALA": ""
         },
         {
             "TITULO": "Mastiff",
             "IMG": "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Mastiff.jpg",
-            "SKIN":[
-              "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Mastiff.jpg"
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Mastiff.jpg"
             ],
-            "DAMAGE_BODY":48.00,
-            "DAMAGE_HEAD":96.00,
-            "ACCESORIOS":[
-                
+            "DAMAGE_BODY": 48.00,
+            "DAMAGE_HEAD": 96.00,
+            "ACCESORIOS": [],
+            "BALA": ""
+        }
+    ],
+    "Assault_Rifles": [
+        {
+            "TITULO": "R-301",
+            "IMG": "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/R-301.jpg",
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/R-301.jpg"
             ],
-            "BALA":""
+            "DAMAGE_BODY": 4.66,
+            "DAMAGE_HEAD": 9.33,
+            "ACCESORIOS": [
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51152733_296045927935312_427329914304200704_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a70cd5d46061bc0ef7afbf08f5f3658d&oe=5CF065FA",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50846369_557871148062007_283695281529159680_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a4edd199205abee27b1a600c6f7255db&oe=5CE9A5C1"
+            ],
+            "BALA": ""
+        },
+        {
+            "TITULO": "Hemlok",
+            "IMG": "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Hemlok.jpg",
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Hemlok.jpg"
+            ],
+            "DAMAGE_BODY": 6,
+            "DAMAGE_HEAD": 7,
+            "ACCESORIOS": [
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51152733_296045927935312_427329914304200704_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a70cd5d46061bc0ef7afbf08f5f3658d&oe=5CF065FA",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50846369_557871148062007_283695281529159680_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a4edd199205abee27b1a600c6f7255db&oe=5CE9A5C1"
+            ],
+            "BALA": ""
+        },
+        {
+            "TITULO": "Flatline",
+            "IMG": "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Flatline.jpg",
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/apex-legends/apex-assets/weapons/Flatline.jpg"
+            ],
+            "DAMAGE_BODY": 5.33,
+            "DAMAGE_HEAD": 10.66,
+            "ACCESORIOS": [
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50846369_557871148062007_283695281529159680_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a4edd199205abee27b1a600c6f7255db&oe=5CE9A5C1"
+            ],
+            "BALA": ""
         }
     ]
 }

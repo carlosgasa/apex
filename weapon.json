@@ -55,6 +55,70 @@
             "BALA": ""
         }
     ],
+    "Sniper_Rifles":[
+        {
+            "TITULO": "G7 Scout",
+            "IMG": "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-sniper/G7-Scout.jpg",
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-sniper/G7-Scout.jpg"
+            ],
+            "DAMAGE_BODY": 10,
+            "DAMAGE_HEAD": 20,
+            "ACCESORIOS": [
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51152733_296045927935312_427329914304200704_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a70cd5d46061bc0ef7afbf08f5f3658d&oe=5CF065FA",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50846369_557871148062007_283695281529159680_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a4edd199205abee27b1a600c6f7255db&oe=5CE9A5C1"
+            ],
+            "BALA": ""
+        },
+        {
+            "TITULO": "Longbow",
+            "IMG": "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-sniper/Longbow.jpg",
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-sniper/Longbow.jpg"
+            ],
+            "DAMAGE_BODY": 18.33,
+            "DAMAGE_HEAD": 36.66,
+            "ACCESORIOS": [
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51152733_296045927935312_427329914304200704_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a70cd5d46061bc0ef7afbf08f5f3658d&oe=5CF065FA",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50846369_557871148062007_283695281529159680_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a4edd199205abee27b1a600c6f7255db&oe=5CE9A5C1"
+            ],
+            "BALA": ""
+        },
+        {
+            "TITULO": "Triple Take",
+            "IMG": "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-sniper/Triple-Take.jpg",
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-sniper/Triple-Take.jpg"
+            ],
+            "DAMAGE_BODY": 23,
+            "DAMAGE_HEAD": 46,
+            "ACCESORIOS": [
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50781454_818881108460393_8632023562103816192_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=025d3d6f05a21b7d57b5ff329186bbe7&oe=5CEF8500",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50739374_533182663834375_5892383517349773312_n.png?_nc_cat=101&_nc_ht=scontent-dfw5-1.xx&oh=b82930055aa509ff1353677d87a00505&oe=5CF10E40",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/51152733_296045927935312_427329914304200704_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a70cd5d46061bc0ef7afbf08f5f3658d&oe=5CF065FA",
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50846369_557871148062007_283695281529159680_n.png?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=a4edd199205abee27b1a600c6f7255db&oe=5CE9A5C1"
+            ],
+            "BALA": ""
+        },
+        {
+            "TITULO": "Kraber",
+            "IMG": "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-sniper/Triple-Take.jpg",
+            "SKIN": [
+                "https://img.rankedboost.com/wp-content/plugins/forge/basic-tier-list-images/apex-sniper/Triple-Take.jpg"
+            ],
+            "DAMAGE_BODY": 41.66,
+            "DAMAGE_HEAD": 83.33,
+            "ACCESORIOS": [
+                
+            ],
+            "BALA": ""
+        }
+    ],
+
     "Assault_Rifles": [
         {
             "TITULO": "R-301",

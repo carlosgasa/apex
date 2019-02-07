@@ -276,6 +276,61 @@
       "ThHABILIDAD_TITULO_1":"Drone Dr. Cura",
       "ThHABILIDAD_TITULO_2":"เจ้าหน้าที่การแพทย์",
       "ThHABILIDAD_TITULO_3":"แคปซูลซัพพลาย"
+    },
+    {
+      "NOMBRE":"MIRAGE",
+      "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-mirage.png.adapt.crop16x9.png",
+      "IMG_GRANDE":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-mirage.png.adapt.crop16x9.png",
+      "EDAD":30,
+      "IMG_HABILIDAD_1":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-tactical-mirage.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_2":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-passive-mirage.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_3":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-mirage.png.adapt.crop16x9.652w.png",
+      "NOMBRE_REAL":"Elliott Witt",
+
+      "EsDESCRIPCION":"Pícaro holográfico",
+      "EsINFO":"Mirage es la típica persona a la que le gusta no pasar desapercibida. El menor de 4 hermanos, ha llevado a la perfección el arte de bromear para llamar la atención. Lo que sí se tomó muy en serio fue la tecnología de holopiloto. Su madre, ingeniera, le enseñó los entresijos de esta tecnología creadora de ilusiones, y Mirage se entregó al estudio de sus mecanismos hasta aprender todo lo que pudo sobre estos. Incluso después de que sus hermanos desaparecieran en combate durante la Guerra de La Frontera, Mirage y su madre siguieron desarrollando dispositivos holográficos, y el trabajo los unió. Cuando trabajaba como camarero para llegar a fin de mes, Mirage escuchó las increíbles historias de sus parroquianos sobre los Apex Games y de la fortuna y gloria que podían conseguirse ganando en estos. Pese a lo atractivo de la idea, sabía que no podía arriesgarse a dejar a su madre sin hijos, hasta que ella misma le regaló unos dispositivos holográficos personalizados y le animó a que persiguiera su sueño. Hoy es la salsa de los Apex Games, superando en ingenio a sus rivales y encandilando al público de las Tierras Salvajes.",
+      "EsHABILIDAD_INFO_1":"Despliega un señuelo holográfico para confundir al enemigo.",
+      "EsHABILIDAD_INFO_2":"Despliega automáticamente un señuelo y camuflaje durante 5 segundos cuando te derriban.",
+      "EsHABILIDAD_INFO_3":"Despliega un conjunto de señuelos que distrae a los enemigos mientras estás camuflado.",
+      "EsHABILIDAD_TITULO_1":"Desquiciar",
+      "EsHABILIDAD_TITULO_2":"¡Más!",
+      "EsHABILIDAD_TITULO_3":"Desaparecer",
+
+      "EnDESCRIPCION":"Holographic Trickster",
+      "EnINFO":"Mirage is the kind of guy who likes to stand out. The youngest of four brothers, he perfected the art of fooling around to get attention. The one thing he took seriously was Holo-Pilot technology: introduced to the illusion-creating tech by his engineer mother, he poured over the mechanisms and learned all he could about them. Even when his brothers went MIA during the Frontier War, Mirage and his mother continued to develop holo devices, and the work brought them closer. While working as a bartender to make ends meet, Mirage heard amazing stories from his patrons about the Apex Games and the wealth and glory that came with victory. As good as both of those sounded, he knew he couldn’t risk leaving his mother childless – until she gave him a set of customized holo devices and told him to follow his dream. Mirage is now the life of the Apex Games, outwitting opponents and charming audiences across the Outlands.",
+      "EnHABILIDAD_INFO_1":"Send out a holographic decoy to confuse the enemy.",
+      "EnHABILIDAD_INFO_2":"Automatically drop a decoy and cloak for five seconds when knocked down.",
+      "EnHABILIDAD_INFO_3":"Deploy a team of Decoys to distract enemies while you cloak.",
+      "EnHABILIDAD_TITULO_1":"Psyche Out",
+      "EnHABILIDAD_TITULO_2":"Encore!",
+      "EnHABILIDAD_TITULO_3":"Vanishing Act",
+
+      "PoDESCRIPCION":"Trapaceiro Ilusionista",
+      "PoINFO":"Ajay Che, conhecida como Lifeline, não é alguém que você esperaria encontrar nos Jogos Apex. Filha de ricos mercadores de armas, ela fugiu de casa quando descobriu os estragos que a família tinha causado e se alistou no Corpo Militar da Fronteira, uma organização humanitária que ajuda as comunidades necessitadas da Fronteira. Desde então, ela dedicou a vida a ajudar os outros e entrou para os Jogos Apex a fim de financiar o Corpo Militar da Fronteira com o dinheiro da premiação. Como ninguém que participa dos Jogos é inocente (todos sabem no que se meteram) e toda vitória significa mais ajuda para os necessitados, Lifeline não tem problema algum em participar do popular esporte sangrento. Ou pelo menos é o que diz para si mesma. Ela pode parecer sarcástica e insensível, mas, no fundo, tudo que deseja é ajudar as pessoas e tornar o mundo um lugar melhor. Se isso significa derrubar algumas pessoas ao longo do caminho, que seja.",
+      "PoHABILIDAD_INFO_1":"Lança uma cópia holográfica para confundir os inimigos.",
+      "PoHABILIDAD_INFO_2":"Automaticamente lança um holograma e se camufla por 5 segundos ao ser derrubado.",
+      "PoHABILIDAD_INFO_3":"Lança uma equipe de hologramas para distrair os inimigos enquanto se camufla.",
+      "PoHABILIDAD_TITULO_1":"Astúcia",
+      "PoHABILIDAD_TITULO_2":"Bis!",
+      "PoHABILIDAD_TITULO_3":"Desaparecer",
+
+      "InDESCRIPCION":"Penipu Ilusionis",
+      "InINFO":"Mirage adalah tipe pria yang suka muncul. Anak bungsu dari empat bersaudara, ia menyempurnakan seni membuat rahmat untuk menarik perhatian. Satu-satunya yang ia anggap serius adalah teknologi holopilotos: disajikan kepada teknologi ilusionis oleh ibu insinyur, ia membungkuk mekanisme dan belajar segala sesuatu tentang mereka. Bahkan ketika saudara-saudara menghilang untuk bertindak dalam Perang Perbatasan, Mirage dan ibunya terus mengembangkan perangkat holografik, dan pekerjaan mendekatkan mereka. Saat bekerja sebagai bartender untuk menaruh makanan di atas meja, Mirage mendengar cerita-cerita luar biasa dari para pelanggan tentang Apex Games dan tentang kemuliaan dan kekayaan yang dibawa kemenangan. Meskipun keduanya sangat menarik, dia tahu dia tidak bisa mengambil risiko meninggalkan ibunya sendirian ... sampai dia memberinya satu set perangkat holografik dan menyuruhnya mengikuti mimpinya. Sekarang Mirage adalah jiwa dari Apex Games, melewati kaki lawan dan merayu penonton Ermas Lands.",
+      "InHABILIDAD_INFO_1":"Keluarkan salinan holografik untuk membingungkan musuh.",
+      "InHABILIDAD_INFO_2":"Secara otomatis meluncurkan hologram dan menyamarkan dirinya sendiri selama 5 detik ketika terjatuh.",
+      "InHABILIDAD_INFO_3":"Lemparkan tim hologram untuk mengalihkan perhatian musuh saat menyamar.",
+      "InHABILIDAD_TITULO_1":"Cerdik",
+      "InHABILIDAD_TITULO_2":"Bis!",
+      "InHABILIDAD_TITULO_3":"Menghilang",
+
+      "ThDESCRIPCION":"นักเล่นกลลวงตา",
+      "ThINFO":"Mirage เป็นคนประเภทที่ชอบแสดงตัว น้องคนสุดท้องของพี่ชายสี่คนเขาทำให้ศิลปะแห่งการสร้างความสง่างามดึงดูดความสนใจได้อย่างสมบูรณ์แบบ สิ่งเดียวที่เขาทำอย่างจริงจังก็คือเทคโนโลยีของ holopilotos: นำเสนอเทคโนโลยีของนักลวงตาโดยแม่วิศวกรเขาก้มลงกลไกและเรียนรู้ทุกอย่างเกี่ยวกับพวกเขา แม้เมื่อพี่น้องหายตัวไปในสงครามชายแดนมิราจและแม่ของเธอยังคงพัฒนาอุปกรณ์โฮโลแกรมและงานนำพวกเขาเข้ามาใกล้ ในขณะที่ทำงานเป็นบาร์เทนเดอร์เพื่อวางอาหารบนโต๊ะมิราจได้ยินเรื่องราวเหลือเชื่อจากลูกค้าเกี่ยวกับเกม Apex และเกี่ยวกับความรุ่งเรืองและความร่ำรวยที่ชัยชนะนำมา เท่าที่ทั้งคู่มีความน่าสนใจมากเขารู้ว่าเขาไม่สามารถเสี่ยงที่จะทิ้งแม่ของเขาไว้ตามลำพัง ... จนกระทั่งเธอมอบชุดอุปกรณ์โฮโลแกรมและให้เขาทำตามความฝันของเขา ตอนนี้มิราจเป็นจิตวิญญาณของเกม Apex ส่งผ่านคู่ต่อสู้และหลอกหลอนผู้ชมของ Ermas Lands",
+      "ThHABILIDAD_INFO_1":"ส่งสำเนาโฮโลแกรมเพื่อสร้างความสับสนให้กับศัตรู",
+      "ThHABILIDAD_INFO_2":"เปิดตัวโฮโลแกรมและลายพรางอัตโนมัติเป็นเวลา 5 วินาทีเมื่อถูกกระแทก",
+      "ThHABILIDAD_INFO_3":"ขว้างทีมโฮโลแกรมเพื่อเบี่ยงเบนความสนใจของศัตรูในขณะที่พรางตัว",
+      "ThHABILIDAD_TITULO_1":"ความเจ้าเล่ห์",
+      "ThHABILIDAD_TITULO_2":"Bis!",
+      "ThHABILIDAD_TITULO_3":"หายไป"
     }
   ]
 }

@@ -7,6 +7,14 @@
       "PoINFO":"*** Sistema operacional: Windows 10 de 64 bits *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz com processador de 4 núcleos *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** RAM GPU: 1 GB *** DISCO RÍGIDO: pelo menos 30 GB de espaço livre",
       "InINFO":"*** Sistem operasi: Windows 10 64-bit *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz dengan prosesor 4-core *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** RAM GPU: 1 GB *** HARD DRIVE: setidaknya 30 GB ruang kosong",
       "ThINFO":"*** ระบบปฏิบัติการ: Windows 10 64 บิต *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz พร้อมโปรเซสเซอร์ 4 คอร์ *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** GPU RAM: 1 GB *** ฮาร์ดไดรฟ์: พื้นที่ว่างอย่างน้อย 30 GB"
+    },
+    {
+      "IMG":"https://img.rankedboost.com/wp-content/uploads/2019/02/Apex-Legends-Light-Machine-Guns-300x164.png",
+      "EsINFO":"Las estadisticas en la seccion de armas es un porcentaje que se calcula con el daño máximo de todas las armas y el más pequeño",
+      "EnINFO":"The statistics in the weapons section is a percentage that is calculated with the maximum damage of all weapons and the smallest",
+      "PoINFO":"As estatísticas na seção de armas é uma porcentagem calculada com o dano máximo de todas as armas e a menor",
+      "InINFO":"Statistik di bagian senjata adalah persentase yang dihitung dengan kerusakan maksimum dari semua senjata dan yang terkecil",
+      "ThINFO":"สถิติในส่วนอาวุธคือเปอร์เซ็นต์ที่คำนวณโดยความเสียหายสูงสุดของอาวุธทั้งหมดและน้อยที่สุด"
     }
   ]
 }

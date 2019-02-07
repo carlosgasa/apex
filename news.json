@@ -2,12 +2,12 @@
   "NOTICIAS":[
     {
         "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/common/headers/apex-featured-tile-cosmetics-16x9.jpg.adapt.crop16x9.431p.jpg",
-        "LINK":"https://www.google.com",
-        "EsINFO":"Español",
-        "EnINFO":"Ingles",
-        "PoINFO":"Portugues",
-        "InINFO":"Indonesio",
-        "ThINFO":"Tailandes"
+        "LINK":"http://playapex.com",
+        "EsINFO":"Nuevo juego Battle Royale, está disponible para Xbox One, PS4 y PC. Puedes descargarlo y jugar gratuitamente del siguiente link: ",
+        "EnINFO":"New game Battle Royale, is available for Xbox One, PS4 and PC. You can download and play for free the following link:",
+        "PoINFO":"Novo jogo Battle Royale, está disponível para Xbox One, PS4 e PC. Você pode baixar e jogar gratuitamente o seguinte link:",
+        "InINFO":"Game baru Battle Royale, tersedia untuk Xbox One, PS4 dan PC. Anda dapat mengunduh dan memainkan tautan berikut secara gratis:",
+        "ThINFO":"เกมใหม่ Battle Royale พร้อมใช้งานสำหรับ Xbox One, PS4 และ PC คุณสามารถดาวน์โหลดและเล่นได้ฟรีจากลิงค์ต่อไปนี้:"
       }
   ]
 }

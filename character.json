@@ -8,15 +8,52 @@
             "IMG_HABILIDAD_1":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-tactical-bangalore.png.adapt.crop16x9.652w.png",
             "IMG_HABILIDAD_2":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-passive-bangalore.png.adapt.crop16x9.652w.png",
             "IMG_HABILIDAD_3":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-bangalore.png.adapt.crop16x9.652w.png",
+            "NOMBRE_REAL":"Anita Williams",
       
             "EsDESCRIPCION":"Soldado profesional",
-            "EsINFO":"Nacida en el seno de una familia militar donde ella, sus padres y sus 4 hermanos mayores sirvieron en las Fuerzas Armadas de IMC, Bangalore ha sido una soldado excepcional desde muy joven. Fue la primera de su promoción en la Academia Militar de IMC y la única cadete capaz de desensamblar un Peacekeeper, equiparlo con un estrangulador de precisión y volver a montarlo en menos de 20 segundos... con los ojos vendados.",
+            "EsINFO":"Nacida en el seno de una familia militar donde ella, sus padres y sus 4 hermanos mayores sirvieron en las Fuerzas Armadas de IMC, Bangalore ha sido una soldado excepcional desde muy joven. Fue la primera de su promoción en la Academia Militar de IMC y la única cadete capaz de desensamblar un Peacekeeper, equiparlo con un estrangulador de precisión y volver a montarlo en menos de 20 segundos... con los ojos vendados. Hace 3 años, Anita y su hermano Jackson recibieron la orden de recuperar una flota mercenaria de las Tierras Salvajes para ayudar en la lucha de IMC contra la Milicia. Sin embargo, su unidad perdió el contacto con el cuartel general de IMC y cayó en una emboscada al llegar. El pelotón se dispersó, pero Jackson resistió para dar a su hermana tiempo de escapar. Sola y sin forma de volver a casa, Anita aplicó su adiestramiento, grandes conocimientos sobre armas y espíritu combativo uniéndose a los Apex Games. Ahora combate para ahorrar dinero con que comprar un pasaje de vuelta a la base de IMC, donde espera reunirse con lo que queda de su familia.",
             "EsHABILIDAD_INFO_1":"Lanza una granada de humo de alta velocidad que explota creando una pantalla de humo al impactar.",
             "EsHABILIDAD_INFO_2":"Si recibes disparos mientras corres, te moverás más rápido durante un breve periodo de tiempo.",
             "EsHABILIDAD_INFO_3":"Solicita un ataque de artillería que avanza progresivamente por el campo de batalla.",
             "EsHABILIDAD_TITULO_1":"Lanzahumo",
             "EsHABILIDAD_TITULO_2":"Paso ligero",
-            "EsHABILIDAD_TITULO_3":"Retumbar del trueno"
+            "EsHABILIDAD_TITULO_3":"Retumbar del trueno",
+      
+            "EnDESCRIPCION":"Professional Soldier",
+            "EnINFO":"Born into a military family where she, her parents, and her four older brothers all served in the IMC Armed Forces, Bangalore has been an exceptional soldier since she was young. She was top of her class at the IMC Military Academy and the only cadet who could take apart a Peacekeeper, equip it with a Precision Choke hop-up, and put it back together in under twenty seconds – blindfolded. Three years ago, Anita and her brother Jackson were ordered to retrieve a mercenary fleet from the Outlands to aid in the IMC’s fight against the Militia. However, their unit lost contact with IMC HQ and were ambushed on arrival. The squad scattered, but Jackson stayed behind to give his sister time to escape. Alone and with no way home, Anita put her training, extensive weapon knowledge, and competitive spirit to work by joining the Apex Games. Now, she fights to raise money for passage back to the IMC home base, where she hopes to reunite with what remains of her family.",
+            "EnHABILIDAD_INFO_1":"Fire a high-velocity smoke canister that explodes into a smoke wall on impact.",
+            "EnHABILIDAD_INFO_2":"Taking fire while sprinting makes you move faster for a brief time.",
+            "EnHABILIDAD_INFO_3":"Call in an artillery strike that slowly creeps across the landscape.",
+            "EnHABILIDAD_TITULO_1":"Smoke Launcher",
+            "EnHABILIDAD_TITULO_2":"Double Time",
+            "EnHABILIDAD_TITULO_3":"Rolling Thunder",
+      
+            "PoDESCRIPCION":"Combatente Profissional",
+            "PoINFO":"Bangalore, os pais e os quatro irmãos mais velhos serviram nas forças armadas da IMC, e ela já era um soldado excepcional desde muito jovem. Era a melhor da turma na academia militar da IMC e a única cadete capaz de desmontar uma Peacekeeper, equipá-la com um funil de precisão e remontá-la em menos de 20 segundos... tudo isso vendada. Há três anos, Anita e o irmão, Jackson, receberam ordens para resgatar uma frota mercenárias das Terras Ermas e ajudar a IMC a lutar contra a Milícia. Porém, a unidade deles perdeu contato com o QG da IMC e foi emboscada ao chegar no local. O esquadrão se espalhou, porém Jackson ficou para trás para que a irmã pudesse fugir. Sozinha e sem ter como voltar para casa, Anita colocou o treinamento, amplo conhecimento sobre armas e espírito competitivo para trabalhar entrando nos Jogos Apex. Agora ela luta por dinheiro para conseguir passagem de volta para a base da IMC, onde ela espera reencontrar o que resta da família dela.",
+            "PoHABILIDAD_INFO_1":"Dispara um cilindro de fumaça de alta velocidade que explode em uma cortina de fumaça ao sofrer impacto.",
+            "PoHABILIDAD_INFO_2":"Receber disparos enquanto corre aumenta a velocidade por um breve período.",
+            "PoHABILIDAD_INFO_3":"Solicita um ataque de artilharia que varre lentamente a área.",
+            "PoHABILIDAD_TITULO_1":"Lançador de Fumaça",
+            "PoHABILIDAD_TITULO_2":"Asas nos Pés",
+            "PoHABILIDAD_TITULO_3":"Estrondo do Trovão",
+      
+            "InDESCRIPCION":"Pejuang Profesional",
+            "InINFO":"Bangalore, orang tuanya, dan empat saudara kandungnya bertugas di militer IMC, dan dia telah menjadi prajurit yang luar biasa sejak dia masih sangat muda. Dia adalah yang terbaik dari kelas akademi militer IMC, dan satu-satunya kadet yang mampu membongkar Pasukan Perdamaian, memperlengkapi dia dengan corong yang presisi, dan menyusunnya kembali dalam waktu kurang dari 20 detik - semuanya diperban. Tiga tahun lalu, Anita dan saudara lelakinya, Jackson, diperintahkan untuk menyelamatkan armada tentara bayaran dari Tanah Ermas dan membantu IMC melawan Milisi. Namun, unit mereka kehilangan kontak dengan markas besar IMC dan disergap saat tiba di lokasi. Skuadron menyebar, tetapi Jackson tetap di belakang agar saudara perempuannya bisa melarikan diri. Sendiri dan tanpa harus kembali ke rumah, Anita menempatkan pelatihan, pengetahuan yang cukup tentang senjata dan semangat kompetitif untuk bekerja memasuki Game Apex. Sekarang dia berjuang mencari uang untuk kembali ke markas IMC, di mana dia berharap menemukan kembali apa yang tersisa dari keluarganya.",
+            "InHABILIDAD_INFO_1":"Ini menembakkan silinder asap berkecepatan tinggi yang meledak di layar asap ketika dipukul.",
+            "InHABILIDAD_INFO_2":"Menerima bidikan sambil berlari meningkatkan kecepatan untuk waktu yang singkat.",
+            "InHABILIDAD_INFO_3":"Minta serangan artileri yang perlahan menyapu daerah itu.",
+            "InHABILIDAD_TITULO_1":"Peluncur asap",
+            "InHABILIDAD_TITULO_2":"Pelindung Kaki",
+            "InHABILIDAD_TITULO_3":"Guntur Kecelakaan",
+      
+            "ThDESCRIPCION":"นักรบมืออาชีพ",
+            "ThINFO":"บังกาลอร์พ่อแม่ของเธอและพี่น้องที่อายุมากกว่าสี่คนรับใช้ในกองทัพ IMC และเธอเป็นทหารที่ยอดเยี่ยมตั้งแต่เธอยังเด็กมาก เธอเป็นคนที่ดีที่สุดของสถาบันการศึกษาทางทหารของ IMC และเป็นนักเรียนนายร้อยคนเดียวที่สามารถถอด Peacekeeper ได้เตรียมเธอด้วยช่องทางที่แม่นยำ สามปีที่แล้วแอนนิต้าและแจ็คสันพี่ชายของเธอได้รับคำสั่งให้ช่วยเหลือกองทหารรับจ้างจาก Ermas Lands และช่วย IMC ต่อสู้กับกองทหารรักษาการณ์ อย่างไรก็ตามหน่วยของพวกเขาสูญเสียการติดต่อกับกองบัญชาการของ IMC และถูกซุ่มโจมตีเมื่อมาถึงที่เกิดเหตุ ฝูงบินกระจายออกไป แต่แจ็คสันอยู่ข้างหลังเพื่อที่น้องสาวของเขาจะได้หลบหนี เพียงอย่างเดียวและโดยไม่ต้องกลับบ้านแอนนิต้าได้ฝึกฝนให้มีความรู้กว้างขวางเกี่ยวกับอาวุธและจิตวิญญาณในการแข่งขันเพื่อเข้าสู่เกม Apex ตอนนี้เธอต้องดิ้นรนเพื่อหาทางกลับไปที่ฐานของ IMC ซึ่งเธอหวังที่จะค้นพบสิ่งที่เหลืออยู่ในครอบครัวของเธอ",
+            "ThHABILIDAD_INFO_1":"มันยิงกระบอกควันความเร็วสูงที่ระเบิดในหน้าจอควันเมื่อมันถูกกระแทก",
+            "ThHABILIDAD_INFO_2":"การรับช็อตในขณะที่วิ่งจะเพิ่มความเร็วเป็นเวลาสั้น ๆ",
+            "ThHABILIDAD_INFO_3":"ร้องขอการโจมตีด้วยปืนใหญ่ที่กวาดพื้นที่อย่างช้าๆ",
+            "ThHABILIDAD_TITULO_1":"ตัวปล่อยควัน",
+            "ThHABILIDAD_TITULO_2":"ทหารรักษาพระองค์",
+            "ThHABILIDAD_TITULO_3":"Thunder Crash"
       
     }
   ]

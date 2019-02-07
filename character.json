@@ -386,6 +386,61 @@
       "ThHABILIDAD_TITULO_1":"เบ็ด",
       "ThHABILIDAD_TITULO_2":"แหล่งข้อมูลภายใน",
       "ThHABILIDAD_TITULO_3":"Tyrolean Weapon"
+    },
+    {
+      "NOMBRE":"WRAITH",
+      "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-wraith.png.adapt.crop16x9.png",
+      "IMG_GRANDE":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-wraith.png.adapt.crop16x9.png",
+      "EDAD":0,
+      "IMG_HABILIDAD_1":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-tactical-wraith.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_2":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-passive-wraith.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_3":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-wraith.png.adapt.crop16x9.652w.png",
+      "NOMBRE_REAL":"Clasificado",
+
+      "EsDESCRIPCION":"Hostigadora interdimensional",
+      "EsINFO":"Luchando, Wraith es un auténtico vendaval, capaz de ejecutar ataques rápidos y letales, y de manipular el espacio-tiempo creando brechas en el continuo de la realidad. Sin embargo, desconoce cómo llegó a convertirse en lo que es hoy. Hace años, se despertó en un centro de detención de IMC para enfermos mentales, sin ningún recuerdo de su vida anterior. También empezó a escuchar una voz lejana que le susurraba en la mente y que la mantenía en vela durante días. Pese a que casi la enloqueció, cuando empezó a escucharla y a confiar en ella, la voz la ayudó a dominar sus nuevos poderes de manipulación del vacío, y de este modo logró escapar de las instalaciones. Decidida a descubrir su verdadera identidad, Wraith emprendió una misión para averiguar más acerca de los experimentos. Sin embargo, muchos de los antiguos laboratorios de investigación se encuentran bajo arenas fuertemente custodiadas de los Apex Games. Wraith se ha unido a la competición, y con cada combate está un poco más cerca de la verdad.",
+      "EsHABILIDAD_INFO_1":"Te reposicionas rápidamente en la seguridad del vacío para evitar cualquier daño.",
+      "EsHABILIDAD_INFO_2":"Una voz te avisa cuando se acerca un peligro. Por lo que parece, esta de tu parte.",
+      "EsHABILIDAD_INFO_3":"Conecta 2 ubicaciones con portales durante 60 segundos, y todo tu equipo puede usarlos.",
+      "EsHABILIDAD_TITULO_1":"En el vacío",
+      "EsHABILIDAD_TITULO_2":"Voces del vacío",
+      "EsHABILIDAD_TITULO_3":"Brecha dimensional",
+
+      "EnDESCRIPCION":"Interdimensional Skirmisher",
+      "EnINFO":"Wraith is a whirlwind fighter, able to execute swift and deadly attacks and manipulate spacetime by opening rifts in the fabric of reality — but she has no idea how she got that way. Years ago, she woke up in an IMC Detention Facility for the Mentally Ill with no memory of her life before. She also began hearing a distant voice whispering in her mind that would keep her awake for days on end. Despite nearly driving her insane, once she started to listen and trust it, the voice helped her harness her newfound power of void manipulation and escape the facility. Determined to uncover her true identity, Wraith began a quest to find out more about the experiments. Many of the old research facilities, however, are buried beneath heavily guarded arenas used for the Apex Games. Now Wraith has joined the competition, and with every match she gets closer to the truth.",
+      "EnHABILIDAD_INFO_1":"Reposition quickly through the safety of void space, avoiding all damage.",
+      "EnHABILIDAD_INFO_2":"A voice warns you when danger approaches. As far as you can tell, it’s on your side.",
+      "EnHABILIDAD_INFO_3":"Link two locations with portals for 60 seconds, allowing your entire team to use them.",
+      "EnHABILIDAD_TITULO_1":"Into the Void",
+      "EnHABILIDAD_TITULO_2":"Voices from the Void",
+      "EnHABILIDAD_TITULO_3":"Dimensional Rift",
+
+      "PoDESCRIPCION":"Combatente Interdimensional",
+      "PoINFO":"Wraith é uma guerreira feroz capaz de realizar ataques rápidos e mortais, além de manipular o tempo-espaço abrindo fendas no tecido da realidade; porém ela não faz ideia de como ganhou esse poder. Anos atrás, ela acordou numa instalação de detenção da IMC para doentes mentais, sem nenhuma memória da vida dela. Ela também começou a ouvir uma voz distante, sussurrando na mente dela e a mantendo acorda por vários dias. Apesar de quase ir à loucura, depois que começou a ouvir e confiar, a voz a ajudou a utilizar o novo poder de manipulação de vazio e a fugir da instalação. Determinada a descobrir sua verdadeira identidade, Wraith embarcou numa missão para descobrir mais sobre os experimentos. Porém, muitas das antigas instalações de pesquisa ficam muito bem protegidas debaixo das arenas usadas nos Jogos Apex. Agora Wraith entrou na competição e, a cada partida, ela chega mais perto da verdade.",
+      "PoHABILIDAD_INFO_1":"Reposicione-se rapidamente através da segurança do espaço vazio, evitando sofrer danos.",
+      "PoHABILIDAD_INFO_2":"Você escuta uma voz quando o perigo se aproxima. Até o momento, ela parece estar te ajudando.",
+      "PoHABILIDAD_INFO_3":"Liga dois locais com portais por 60 segundos, que pode ser usados por toda a sua equipe.",
+      "PoHABILIDAD_TITULO_1":"Adentrando o Vazio",
+      "PoHABILIDAD_TITULO_2":"Vozes do Vazio",
+      "PoHABILIDAD_TITULO_3":"Fenda Dimensional",
+
+      "InDESCRIPCION":"Pejuang Interdimensional",
+      "InINFO":"Wraith adalah seorang pejuang ganas yang mampu melakukan serangan cepat dan mematikan, dan memanipulasi ruang-waktu dengan memecahkan jalinan realitas; tapi dia tidak tahu bagaimana dia mendapatkan kekuatan itu. Bertahun-tahun yang lalu, dia terbangun di fasilitas penahanan IMC untuk orang yang sakit jiwa, tanpa ingatan akan hidupnya. Dia juga mulai mendengar suara dari kejauhan, berbisik di benaknya dan membuatnya tetap terjaga selama beberapa hari. Meskipun hampir menjadi gila, setelah dia mulai mendengarkan dan percaya, suara itu membantunya menggunakan kekuatan baru manipulasi vakum dan melarikan diri dari fasilitas. Bertekad untuk menemukan identitas aslinya, Wraith memulai misi untuk mencari tahu lebih banyak tentang eksperimen. Namun, banyak dari fasilitas penelitian lama terlindungi dengan sangat baik di bawah arena yang digunakan dalam Apex Games. Sekarang Wraith telah memasuki kompetisi, dan dengan setiap pertandingan, itu semakin mendekati kebenaran.",
+      "InHABILIDAD_INFO_1":"Atur ulang posisi dengan cepat melalui pengamanan ruang kosong, agar tidak rusak.",
+      "InHABILIDAD_INFO_2":"Anda mendengar suara saat bahaya mendekat. Sejauh ini, dia sepertinya membantu Anda.",
+      "InHABILIDAD_INFO_3":"Tautkan dua lokasi dengan portal selama 60 detik, yang dapat digunakan oleh seluruh tim Anda.",
+      "InHABILIDAD_TITULO_1":"Memasuki Void",
+      "InHABILIDAD_TITULO_2":"Suara Kekosongan",
+      "InHABILIDAD_TITULO_3":"Slot Dimensi",
+
+      "ThDESCRIPCION":"นักสู้สองมิติ",
+      "ThINFO":"เจตภูตเป็นนักรบที่ดุร้ายที่สามารถโจมตีได้อย่างรวดเร็วและเป็นอันตรายและจัดการพื้นที่เวลาด้วยการทำลายโครงสร้างของความเป็นจริง แต่เธอไม่รู้ว่าเธอได้รับพลังนั้นมาได้อย่างไร หลายปีก่อนเธอตื่นขึ้นที่สถานกักกัน IMC สำหรับผู้ป่วยทางจิตโดยไม่มีความทรงจำเกี่ยวกับชีวิตของเธอ เธอก็เริ่มได้ยินเสียงที่ห่างไกลกระซิบในใจและตื่นตัวเป็นเวลาหลายวัน แม้ว่าเกือบจะบ้าไปแล้วหลังจากเธอเริ่มฟังและเชื่อใจเสียงก็ช่วยให้เธอใช้พลังใหม่ของการจัดการสูญญากาศและหลบหนีสิ่งอำนวยความสะดวก เจตภูตมุ่งมั่นที่จะค้นพบตัวตนที่แท้จริงของเธอเจตภูตได้เริ่มภารกิจเพื่อค้นหาข้อมูลเพิ่มเติมเกี่ยวกับการทดลอง อย่างไรก็ตามสิ่งอำนวยความสะดวกการวิจัยเก่าหลายแห่งได้รับการคุ้มครองเป็นอย่างดีภายใต้เกมที่ใช้ใน Apex Games ตอนนี้เร ธ ได้เข้าสู่การแข่งขันและในแต่ละแมทช์มันเข้าใกล้ความจริงมากขึ้น",
+      "ThHABILIDAD_INFO_1":"เปลี่ยนตำแหน่งอย่างรวดเร็วผ่านระบบความปลอดภัยของพื้นที่ว่างเพื่อหลีกเลี่ยงความเสียหาย",
+      "ThHABILIDAD_INFO_2":"คุณได้ยินเสียงเมื่อใกล้ถึงอันตราย จนถึงตอนนี้เธอดูเหมือนจะช่วยคุณ",
+      "ThHABILIDAD_INFO_3":"เชื่อมโยงสองสถานที่เข้ากับพอร์ทัลเป็นเวลา 60 วินาทีซึ่งทีมของคุณสามารถใช้งานได้",
+      "ThHABILIDAD_TITULO_1":"เข้าสู่ความว่างเปล่า",
+      "ThHABILIDAD_TITULO_2":"เสียงของความว่างเปล่า",
+      "ThHABILIDAD_TITULO_3":"สล็อตมิติ"
     }
   ]
 }

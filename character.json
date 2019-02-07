@@ -113,7 +113,7 @@
       
     },
     {
-      "NOMBRE":"BLOODHOUND",
+      "NOMBRE":"CAUSTIC",
       "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-caustic.png.adapt.crop16x9.png",
       "IMG_GRANDE":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-caustic.png.adapt.crop16x9.png",
       "EDAD":48,
@@ -166,6 +166,61 @@
       "ThHABILIDAD_TITULO_1":"กับดักแก๊ส Nox",
       "ThHABILIDAD_TITULO_2":"Nox Vision",
       "ThHABILIDAD_TITULO_3":"ระเบิดก๊าซ Nox"
+    },
+    {
+      "NOMBRE":"CAUSTIC",
+      "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-gibraltar.png.adapt.crop16x9.png",
+      "IMG_GRANDE":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-gibraltar.png.adapt.crop16x9.png",
+      "EDAD":48,
+      "IMG_HABILIDAD_1":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-tactical-gibraltar.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_2":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-passive-gibraltar.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_3":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-gibraltar.png.adapt.crop16x9.652w.png",
+      "NOMBRE_REAL":"Makoa Gibraltar",
+
+      "EsDESCRIPCION":"Fortaleza escudada",
+      "EsINFO":"Gibraltar es un gigante amable con un lado rebelde. Hijo de 2 voluntarios de la SARAS (Sociedad de Auxilio, Rescate, Acogida y Salvamento), siempre se le ha dado bien sacar a otros de las situaciones comprometidas, frecuentes en las Tierras Salvajes. Sin embargo, solo empezó a comprender el valor de proteger a los demás cuando él y su novio cogieron a escondidas la moto de su padre, salieron con ella a divertirse y quedaron atrapados por una letal avalancha de barro. Sus padres los rescataron, pero su padre perdió un brazo en el rescate. Gibraltar nunca olvidó este sacrificio y ahora dedica su vida a ayudar a la gente necesitada. Los Apex Games no cambiaron este aspecto de su personalidad, pero sí su significado. Muchos de los amigos y colegas de Gibraltar han competido en los juegos durante años para ganar más dinero, fama y gloria, y algunos nunca regresaron a casa. Gibraltar se unió para protegerlos y, por primera vez, sus habilidades como rescatador y su naturaleza rebelde se aunaron. Hoy se ha convertido en un icono de los Apex Games, arriesgándose en la línea de fuego para defender a su pelotón y haciendo huir a sus rivales.",
+      "EsHABILIDAD_INFO_1":"Crea un escudo cúpula que bloquea ataques durante 15 segundos.",
+      "EsHABILIDAD_INFO_2":"Al apuntar con la mira, se despliega un escudo de arma que bloquea los proyectiles que te disparan.",
+      "EsHABILIDAD_INFO_3":"Solicita un ataque de mortero concentrado en una posición marcada.",
+      "EsHABILIDAD_TITULO_1":"Cúpula de protección",
+      "EsHABILIDAD_TITULO_2":"Escudo de arma",
+      "EsHABILIDAD_TITULO_3":"Bombardeo defensivo",
+
+      "EnDESCRIPCION":"Shielded Fortress",
+      "EnINFO":"Gibraltar is a gentle giant with a wild side. The son of two SARAS (Search and Rescue Association of Solace) volunteers, he has always been skilled at getting others out of dangerous situations that are common in the Outlands. However, he only began to understand the value of protecting others when he and his boyfriend stole his father’s motorcycle, took it on a joyride, and got trapped by a deadly mudslide. His parents saved them, and his father lost an arm in the process. Gibraltar has never forgotten that sacrifice and has devoted his life to helping those in need. The Apex Games didn’t change that, but they changed what it meant. Many of Gibraltar’s friends and colleagues have competed in the Games for extra money, fame, and glory over the years, and some never came home. Gibraltar joined to keep them safe and, for the first time, his skills as a rescuer and his rebellious nature worked together. He’s now become an icon in the Apex Games, putting himself in the line of fire to protect his squad and send his opponents running for cover.",
+      "EnHABILIDAD_INFO_1":"Throw down a dome-shield that blocks attacks for 15 seconds.",
+      "EnHABILIDAD_INFO_2":"Aiming down sights deploys a gun shield that blocks incoming fire.",
+      "EnHABILIDAD_INFO_3":"Call in a concentrated mortar strike on a marked position.",
+      "EnHABILIDAD_TITULO_1":"Dome of Protection",
+      "EnHABILIDAD_TITULO_2":"Gun Shield",
+      "EnHABILIDAD_TITULO_3":"Defensive Bombardment",
+
+      "PoDESCRIPCION":"Fortaleza Blindada",
+      "PoINFO":"Gibraltar é um gigante gentil com um lado selvagem. Filho de dois voluntários da SARAS (Associação de Busca e Resgate de Solace), ele sempre foi bom em tirar os outros de situações perigosas, muito comuns nas Terras Ermas. Porém, ele só começou a entender o valor de proteger os outros quando ele e o namorado roubaram a moto do pai, deram uma volta e ficaram presos num perigoso deslizamento de lama. Ele foi salvo pelos pais, porém o pai dele perdeu um braço no processo. Gibraltar nunca se esqueceu desse sacrifício e dedicou a vida a ajudar os necessitados. Os Jogos Apex não mudaram isso, mas o significado mudou. Muitos dos amigos e colegas de Gibraltar competiram nos Jogos por dinheiro, fama e glória ao longo dos anos, e alguns nunca voltaram para casa. Gibraltar se juntou a eles para mantê-los a salvo e, pela primeira vez, suas habilidades como resgatador e a natureza rebelde trabalharam juntas. Agora ele se tornou um ícone dos Jogos Apex, colocando-se na linha de fogo para proteger o esquadrão dele e forçar os oponentes a se esconderem.",
+      "PoHABILIDAD_INFO_1":"Lança um escudo redoma que bloqueia ataques por 15 segundos.",
+      "PoHABILIDAD_INFO_2":"Utilizar a mira lança um Escudo de Arma que bloqueia disparos contra você.",
+      "PoHABILIDAD_INFO_3":"Solicita um ataque de morteiro concentrado em uma posição marcada.",
+      "PoHABILIDAD_TITULO_1":"Domo de Proteção",
+      "PoHABILIDAD_TITULO_2":"Escudo de Arma",
+      "PoHABILIDAD_TITULO_3":"Bombardeio Defensivo",
+
+      "InDESCRIPCION":"Benteng Lapis Baja",
+      "InINFO":"Gibraltar adalah raksasa yang lembut dengan sisi liar. Anak dari dua sukarelawan dari SARAS (Solace Search and Rescue Association), ia selalu pandai mengeluarkan orang lain dari situasi berbahaya, sangat umum di Ermas Lands. Namun, dia hanya mulai memahami nilai melindungi orang lain ketika dia dan pacarnya mencuri sepeda dari ayah mereka, berbalik dan terjebak dalam luncuran lumpur berbahaya. Dia diselamatkan oleh orang tuanya, tetapi ayahnya kehilangan lengan dalam prosesnya. Gibraltar tidak pernah melupakan pengorbanan itu dan mengabdikan hidupnya untuk membantu yang membutuhkan. The Apex Games tidak mengubah itu, tetapi artinya berubah. Banyak teman dan kolega Gibraltar berkompetisi di Olimpiade untuk mendapatkan uang, ketenaran dan kemuliaan selama bertahun-tahun, dan beberapa tidak pernah kembali ke rumah. Gibraltar bergabung dengan mereka untuk menjaga mereka aman dan, untuk pertama kalinya, kemampuannya sebagai penyelamat dan sifat pemberontak bekerja bersama. Sekarang dia telah menjadi ikon dari Game Apex, menempatkan dirinya di garis tembak untuk melindungi skuadronnya dan memaksa lawan untuk bersembunyi.",
+      "InHABILIDAD_INFO_1":"Meluncurkan pelindung shell yang memblokir serangan selama 15 detik.",
+      "InHABILIDAD_INFO_2":"Menggunakan lingkup melempar Weapon Shield yang memblokir tembakan pada Anda.",
+      "InHABILIDAD_INFO_3":"Menyerukan serangan mortir terkonsentrasi di posisi yang ditandai.",
+      "InHABILIDAD_TITULO_1":"Kubah Perlindungan",
+      "InHABILIDAD_TITULO_2":"Lambang",
+      "InHABILIDAD_TITULO_3":"Bom Defensif",
+
+      "ThDESCRIPCION":"ป้อมปราการเกราะ",
+      "ThINFO":"ยิบรอลตาร์เป็นยักษ์ที่อ่อนโยนพร้อมกับด้านที่ดุร้าย บุตรชายของอาสาสมัครสองคนจาก SARAS (สมาคมการค้นหาและช่วยเหลือปลอบใจ) เขาเก่งในการพาคนอื่นออกจากสถานการณ์ที่อันตรายซึ่งเป็นเรื่องธรรมดาใน Ermas Lands อย่างไรก็ตามเขาเริ่มเข้าใจถึงคุณค่าของการปกป้องผู้อื่นเมื่อเขาและแฟนของเขาขโมยจักรยานจากพ่อของพวกเขาหันกลับมาและถูกขังอยู่ในโคลนโคลนที่อันตราย พ่อแม่ของเขาได้รับความรอด แต่พ่อของเขาเสียแขนไปในกระบวนการ ยิบรอลตาร์ไม่เคยลืมว่าการเสียสละและอุทิศชีวิตเพื่อช่วยเหลือผู้ยากไร้ เกม Apex ไม่ได้เปลี่ยนแปลง แต่ความหมายเปลี่ยนไป เพื่อนและเพื่อนร่วมงานของกิบจำนวนมากทำการแข่งขันกันเพื่อเงินชื่อเสียงและเกียรติยศในช่วงหลายปีที่ผ่านมาและบางคนไม่เคยกลับบ้าน ยิบรอลตาร์เข้าร่วมกับพวกเขาเพื่อให้พวกเขาปลอดภัยและเป็นครั้งแรกที่ความสามารถของเขาในฐานะผู้ช่วยชีวิตและธรรมชาติที่ดื้อรั้นทำงานร่วมกัน ตอนนี้เขาได้กลายเป็นไอคอนของเกมเอเพ็กซ์ทำให้ตัวเองอยู่ในแนวยิงเพื่อปกป้องฝูงบินของเขาและบังคับให้คู่ต่อสู้ซ่อนตัว",
+      "ThHABILIDAD_INFO_1":"เปิดตัวเกราะป้องกันที่ป้องกันการโจมตีเป็นเวลา 15 วินาที",
+      "ThHABILIDAD_INFO_2":"การใช้ขอบเขตจะส่ง Weapon Shield ที่บล็อกการยิงมาที่คุณ",
+      "ThHABILIDAD_INFO_3":"เรียกการโจมตีแบบครกอย่างเข้มข้นในตำแหน่งที่ทำเครื่องหมายไว้",
+      "ThHABILIDAD_TITULO_1":"โดมแห่งการป้องกัน",
+      "ThHABILIDAD_TITULO_2":"เสื้อคลุมแขน",
+      "ThHABILIDAD_TITULO_3":"การป้องกันการระเบิด"
     }
   ]
 }

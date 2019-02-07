@@ -331,6 +331,61 @@
       "ThHABILIDAD_TITULO_1":"ความเจ้าเล่ห์",
       "ThHABILIDAD_TITULO_2":"Bis!",
       "ThHABILIDAD_TITULO_3":"หายไป"
+    },
+    {
+      "NOMBRE":"PATHFINDER",
+      "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-pathfinder.png.adapt.crop16x9.png",
+      "IMG_GRANDE":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-pathfinder.png.adapt.crop16x9.png",
+      "EDAD":0,
+      "IMG_HABILIDAD_1":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-tactical-pathfinder.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_2":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-passive-pathfinder.png.adapt.crop16x9.652w.png",
+      "IMG_HABILIDAD_3":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-pathfinder.png.adapt.crop16x9.652w.png",
+      "NOMBRE_REAL":"MRVN",
+
+      "EsDESCRIPCION":"Explorador de avanzada",
+      "EsINFO":"Pathfinder es la viva imagen del optimismo, pese a sus circunstancias. Se trata de un MRVN (Mecanismo Robótico Versátil Nanocomputerizado) modificado para especializarse en exploración y reconocimiento de ubicaciones cuyo sistema central se activó hace décadas en un laboratorio abandonado, sin tener ni idea de quién lo había creado ni por qué. Con su designación como MRVN como única pista sobre su identidad, Pathfinder empezó a buscar a su creador. Desde entonces, Pathfinder ha aprendido mucho en sus viajes (como, por ejemplo, a cocinar un buen cocido de leviatán a la oriental), pero no ha logrado ningún progreso en la búsqueda de su creador. Con todo, nunca ha abandonado la esperanza, y se unió a los Apex Games para conseguir la atención de los fans y, con suerte, de la persona que lo fabricó. Mientras tanto, se sigue mostrando entusiasta y servicial, siempre listo para hacer nuevos amigos (y para eliminarlos después).",
+      "EsHABILIDAD_INFO_1":"Usa el garfio para llegar rápidamente a lugares fuera de tu alcance.",
+      "EsHABILIDAD_INFO_2":"Escanea una baliza de reconocimiento para desvelar la ubicación del próximo anillo.",
+      "EsHABILIDAD_INFO_3":"Despliega una tirolina que pueden usar todos.",
+      "EsHABILIDAD_TITULO_1":"Garfio",
+      "EsHABILIDAD_TITULO_2":"Conocimiento interno",
+      "EsHABILIDAD_TITULO_3":"Lanzatirolinas",
+
+      "EnDESCRIPCION":"Forward Scout",
+      "EnINFO":"Pathfinder is the picture of optimism, despite his circumstances. A MRVN (Mobile Robotic Versatile eNtity) modified to specialize in location scouting and surveying, he booted up decades ago in an abandoned laboratory with no idea who created him or why. With only his MRVN designation to hint at his identity, Pathfinder set off in search of his creator. Pathfinder has learned much in his travels since then (like how to make a mean Eastern Leviathan Stew) but hasn’t come any closer to finding his creator. Still, he’s never given up hope, and has joined the Apex Games to gain a following--and hopefully draw the attention of his maker. In the meantime, he remains enthusiastic and helpful, always ready to make new friends (then shoot them).",
+      "EnHABILIDAD_INFO_1":"Grapple to get to out-of-reach places quickly.",
+      "EnHABILIDAD_INFO_2":"Scan a survey beacon to reveal the ring’s next location.",
+      "EnHABILIDAD_INFO_3":"Create a zipline for everyone to use.",
+      "EnHABILIDAD_TITULO_1":"Grappling Hook",
+      "EnHABILIDAD_TITULO_2":"Insider Knowledge",
+      "EnHABILIDAD_TITULO_3":"Zipline Gun",
+
+      "PoDESCRIPCION":"Batedor Avançado",
+      "PoINFO":"Pathfinder é a cara do otimismo, apesar das circunstâncias. Um MRVN (eNtidade Versátil Robótica Móvel) modificado para se especializar em sondagem de território que foi ligado décadas atrás em um laboratório abandonado sem nenhuma ideia de quem o criou ou por que. Apenas com a designação MRVN para se identificar, Pathfinder parte em busca do criador. Pathfinder aprendeu muita coisa em suas viagens desde então (como, por exemplo, fazer um guisado de leviatã delicioso), mas ainda está longe de encontrar quem o criou. Porém, ele nunca perdeu as esperanças e entrou para os Jogos Apex a fim de ganhar seguidores e, com sorte, chamar a atenção do criador dele. No meio tempo, ele permanece entusiasmado e prestativo, sempre pronto para fazer novos amigos (e depois atirar neles).",
+      "PoHABILIDAD_INFO_1":"Gancho para chegar rapidamente a lugares fora de alcance.",
+      "PoHABILIDAD_INFO_2":"Analise um sinalizador de pesquisa para revelar o próximo local do anel.",
+      "PoHABILIDAD_INFO_3":"Cria uma tirolesa para todos usarem.",
+      "PoHABILIDAD_TITULO_1":"Gancho",
+      "PoHABILIDAD_TITULO_2":"Fontes Internas",
+      "PoHABILIDAD_TITULO_3":"Arma de Tirolesa",
+
+      "InDESCRIPCION":"Pengocok Tingkat Lanjut",
+      "InINFO":"Pathfinder adalah wajah optimisme, terlepas dari keadaan. MRVN (Modular Robotic Robotic) dimodifikasi untuk berspesialisasi dalam penyelidikan wilayah yang dihubungkan beberapa dekade lalu di laboratorium yang ditinggalkan tanpa tahu siapa yang menciptakannya atau mengapa. Dengan hanya penunjukan MRVN untuk mengidentifikasi dirinya, Pathfinder berangkat mencari pencipta. Pathfinder telah belajar banyak dalam perjalanannya sejak itu (seperti membuat sup leviathan yang lezat), tetapi dia masih jauh dari menemukan siapa yang menciptakannya. Namun, ia tidak pernah menyerah dan memasuki Apex Games untuk memenangkan pengikut dan mudah-mudahan menarik perhatian penciptanya. Sementara itu, ia tetap antusias dan membantu, selalu siap untuk mendapatkan teman baru (dan kemudian menembak mereka).",
+      "InHABILIDAD_INFO_1":"Kait untuk sampai ke tempat yang jauh dari jangkauan.",
+      "InHABILIDAD_INFO_2":"Analisis bendera pencarian untuk mengungkapkan lokasi berikutnya di atas ring.",
+      "InHABILIDAD_INFO_3":"Buat zipline untuk digunakan semua orang.",
+      "InHABILIDAD_TITULO_1":"Kait",
+      "InHABILIDAD_TITULO_2":"Sumber Internal",
+      "InHABILIDAD_TITULO_3":"Senjata Tyrolean",
+
+      "ThDESCRIPCION":"ผู้ชนะขั้นสูง",
+      "ThINFO":"ผู้เบิกทางเป็นใบหน้าของการมองในแง่ดีแม้จะมีสถานการณ์ MRVN (หุ่นยนต์แบบแยกส่วน) ได้รับการปรับเปลี่ยนให้มีความเชี่ยวชาญในการตรวจสอบอาณาเขตที่ถูกเชื่อมโยงมานานหลายทศวรรษแล้วในห้องทดลองที่ถูกทอดทิ้งโดยไม่รู้ว่าใครเป็นผู้สร้าง ด้วยการกำหนด MRVN เพื่อระบุตัวเอง Pathfinder จึงเริ่มค้นหาผู้สร้าง ผู้บุกเบิกได้เรียนรู้มากมายในการเดินทางของเขานับตั้งแต่ (เช่นการทำสตูว์เลวีอาธานแสนอร่อย) แต่เขาก็ยังห่างไกลจากการค้นหาว่าใครเป็นผู้สร้าง อย่างไรก็ตามเขาไม่เคยละทิ้งความหวังและเข้าสู่เกมของ Apex เพื่อที่จะได้ผู้ติดตามและหวังว่าจะได้รับความสนใจจากผู้สร้างของเขา ในระหว่างนี้เขายังคงกระตือรือร้นและช่วยเหลือดีพร้อมเสมอที่จะหาเพื่อนใหม่ (จากนั้นก็ยิงใส่พวกเขา)",
+      "ThHABILIDAD_INFO_1":"ขอสถานที่ที่จะไปให้พ้น",
+      "ThHABILIDAD_INFO_2":"วิเคราะห์การตั้งค่าสถานะการค้นหาเพื่อเปิดเผยตำแหน่งถัดไปบนวงแหวน",
+      "ThHABILIDAD_INFO_3":"สร้าง zipline เพื่อให้ทุกคนใช้",
+      "ThHABILIDAD_TITULO_1":"เบ็ด",
+      "ThHABILIDAD_TITULO_2":"แหล่งข้อมูลภายใน",
+      "ThHABILIDAD_TITULO_3":"Tyrolean Weapon"
     }
   ]
 }

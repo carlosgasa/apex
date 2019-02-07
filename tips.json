@@ -2,11 +2,11 @@
   "TIPS":[
     {
       "IMG":"https://media.contentapi.ea.com/content/dam/apex-legends/common/embed-images/apex-embed-legends-lineup.png",
-      "EsINFO":"Espñol",
-      "EnINFO":"Ingles",
-      "PoINFO":"Portugues",
-      "InINFO":"Indonesio",
-      "ThINFO":"Tailandes"
+      "EsINFO":"Espñol https://media.contentapi.ea.com/content/dam/apex-legends/common/embed-images/apex-embed-legends-lineup.png",
+      "EnINFO":"Ingles https://media.contentapi.ea.com/content/dam/apex-legends/common/embed-images/apex-embed-legends-lineup.png",
+      "PoINFO":"Portugues https://media.contentapi.ea.com/content/dam/apex-legends/common/embed-images/apex-embed-legends-lineup.png",
+      "InINFO":"Indonesio https://media.contentapi.ea.com/content/dam/apex-legends/common/embed-images/apex-embed-legends-lineup.png",
+      "ThINFO":"Tailandes https://media.contentapi.ea.com/content/dam/apex-legends/common/embed-images/apex-embed-legends-lineup.png"
     }
   ]
 }

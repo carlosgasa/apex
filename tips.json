@@ -1,22 +1,6 @@
 {
   "TIPS":[
     {
-      "IMG":"https://www.gamecrate.com/sites/default/files/apex-legends-impressions%20(1).jpg",
-      "EsINFO":"***Sistema operativo: Windows 10 de 64 bits ***CPU: Intel Core i3-6300 3,8 GHz/AMD FX-4350 4,2 GHz con procesador de 4 núcleos ***RAM: 6 GB ***GPU: NVIDIA GeForce GT 640/Radeon HD 7700 ***RAM DE GPU: 1 GB ***DISCO DURO: al menos 30 GB de espacio libre",
-      "EnINFO":"*** Operating system: Windows 10 64-bit *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz with 4-core processor *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** GPU RAM: 1 GB *** HARD DRIVE: at least 30 GB of free space",
-      "PoINFO":"*** Sistema operacional: Windows 10 de 64 bits *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz com processador de 4 núcleos *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** RAM GPU: 1 GB *** DISCO RÍGIDO: pelo menos 30 GB de espaço livre",
-      "InINFO":"*** Sistem operasi: Windows 10 64-bit *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz dengan prosesor 4-core *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** RAM GPU: 1 GB *** HARD DRIVE: setidaknya 30 GB ruang kosong",
-      "ThINFO":"*** ระบบปฏิบัติการ: Windows 10 64 บิต *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz พร้อมโปรเซสเซอร์ 4 คอร์ *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** GPU RAM: 1 GB *** ฮาร์ดไดรฟ์: พื้นที่ว่างอย่างน้อย 30 GB"
-    },
-    {
-      "IMG":"https://img.rankedboost.com/wp-content/uploads/2019/02/Apex-Legends-Light-Machine-Guns-300x164.png",
-      "EsINFO":"Las estadisticas en la seccion de armas es un porcentaje que se calcula con el daño máximo de todas las armas y el más pequeño",
-      "EnINFO":"The statistics in the weapons section is a percentage that is calculated with the maximum damage of all weapons and the smallest",
-      "PoINFO":"As estatísticas na seção de armas é uma porcentagem calculada com o dano máximo de todas as armas e a menor",
-      "InINFO":"Statistik di bagian senjata adalah persentase yang dihitung dengan kerusakan maksimum dari semua senjata dan yang terkecil",
-      "ThINFO":"สถิติในส่วนอาวุธคือเปอร์เซ็นต์ที่คำนวณโดยความเสียหายสูงสุดของอาวุธทั้งหมดและน้อยที่สุด"
-    },
-    {
       "IMG":"https://scontent-dfw5-1.cdninstagram.com/vp/c4355466f40ded369f42ca700b799412/5CDE1EEA/t51.2885-15/e35/50315496_337340880502389_3873207376508844966_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com",
       "EsINFO":"Mapa con registro de buen loot",
       "EnINFO":"Map with register of good loot",
@@ -31,6 +15,22 @@
       "PoINFO":"ranking útil de todas as armas",
       "InINFO":"peringkat berguna semua senjata",
       "ThINFO":"การจัดอันดับที่มีประโยชน์ของอาวุธทั้งหมด"
+    },
+    {
+      "IMG":"https://www.gamecrate.com/sites/default/files/apex-legends-impressions%20(1).jpg",
+      "EsINFO":"***Sistema operativo: Windows 10 de 64 bits ***CPU: Intel Core i3-6300 3,8 GHz/AMD FX-4350 4,2 GHz con procesador de 4 núcleos ***RAM: 6 GB ***GPU: NVIDIA GeForce GT 640/Radeon HD 7700 ***RAM DE GPU: 1 GB ***DISCO DURO: al menos 30 GB de espacio libre",
+      "EnINFO":"*** Operating system: Windows 10 64-bit *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz with 4-core processor *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** GPU RAM: 1 GB *** HARD DRIVE: at least 30 GB of free space",
+      "PoINFO":"*** Sistema operacional: Windows 10 de 64 bits *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz com processador de 4 núcleos *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** RAM GPU: 1 GB *** DISCO RÍGIDO: pelo menos 30 GB de espaço livre",
+      "InINFO":"*** Sistem operasi: Windows 10 64-bit *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz dengan prosesor 4-core *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** RAM GPU: 1 GB *** HARD DRIVE: setidaknya 30 GB ruang kosong",
+      "ThINFO":"*** ระบบปฏิบัติการ: Windows 10 64 บิต *** CPU: Intel Core i3-6300 3.8GHz / AMD FX-4350 4.2GHz พร้อมโปรเซสเซอร์ 4 คอร์ *** RAM: 6GB *** GPU : NVIDIA GeForce GT 640 / Radeon HD 7700 *** GPU RAM: 1 GB *** ฮาร์ดไดรฟ์: พื้นที่ว่างอย่างน้อย 30 GB"
+    },
+    {
+      "IMG":"https://img.rankedboost.com/wp-content/uploads/2019/02/Apex-Legends-Light-Machine-Guns-300x164.png",
+      "EsINFO":"Las estadisticas en la seccion de armas es un porcentaje que se calcula con el daño máximo de todas las armas y el más pequeño",
+      "EnINFO":"The statistics in the weapons section is a percentage that is calculated with the maximum damage of all weapons and the smallest",
+      "PoINFO":"As estatísticas na seção de armas é uma porcentagem calculada com o dano máximo de todas as armas e a menor",
+      "InINFO":"Statistik di bagian senjata adalah persentase yang dihitung dengan kerusakan maksimum dari semua senjata dan yang terkecil",
+      "ThINFO":"สถิติในส่วนอาวุธคือเปอร์เซ็นต์ที่คำนวณโดยความเสียหายสูงสุดของอาวุธทั้งหมดและน้อยที่สุด"
     }
   ]
 }
